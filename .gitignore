@@ -1,0 +1,9 @@
+.DS_Store
+**/data/source/
+**/data/translations.txt
+**/__pycache__/
+**/.sites/
+**/.openai/local/
+**/node_modules/
+*.tar.gz
+*.tgz

@@ -1,0 +1,55 @@
+{
+  "repository": "https://github.com/CIRCSE/LASLA",
+  "commit": "c2e2bb6500b5ef9c6f5f31df6774423e9bb9fddc",
+  "license": "CC BY-NC-SA 4.0",
+  "files": [
+    {
+      "book": 1,
+      "path": "data/source/book-1.conllup",
+      "url": "https://raw.githubusercontent.com/CIRCSE/LASLA/c2e2bb6500b5ef9c6f5f31df6774423e9bb9fddc/conllup/Caesar_BellumGallicum_CaesBG1.conllup",
+      "sha256": "1a3360256f5666fa8d0dc44003dfa853a42629348d4a6065704922f9f3d9972e"
+    },
+    {
+      "book": 2,
+      "path": "data/source/book-2.conllup",
+      "url": "https://raw.githubusercontent.com/CIRCSE/LASLA/c2e2bb6500b5ef9c6f5f31df6774423e9bb9fddc/conllup/Caesar_BellumGallicum_CaesBG2.conllup",
+      "sha256": "7b1e4506db9b0bbefd867442c821e6f405650e44e6a3fd2e51ab9a0b76890d61"
+    },
+    {
+      "book": 3,
+      "path": "data/source/book-3.conllup",
+      "url": "https://raw.githubusercontent.com/CIRCSE/LASLA/c2e2bb6500b5ef9c6f5f31df6774423e9bb9fddc/conllup/Caesar_BellumGallicum_CaesBG3.conllup",
+      "sha256": "9ff2733eae84e8b2e74d9f8b43d0eb50702f5a2763b4f5fd2a327df9712c21b4"
+    },
+    {
+      "book": 4,
+      "path": "data/source/book-4.conllup",
+      "url": "https://raw.githubusercontent.com/CIRCSE/LASLA/c2e2bb6500b5ef9c6f5f31df6774423e9bb9fddc/conllup/Caesar_BellumGallicum_CaesBG4.conllup",
+      "sha256": "a62680bc31bca998a1ab8ba4a36cccae240ce573b32ff52c2e032aacef064a72"
+    },
+    {
+      "book": 5,
+      "path": "data/source/book-5.conllup",
+      "url": "https://raw.githubusercontent.com/CIRCSE/LASLA/c2e2bb6500b5ef9c6f5f31df6774423e9bb9fddc/conllup/Caesar_BellumGallicum_CaesBG5.conllup",
+      "sha256": "612f3f1aa79ea607bdaeb76003574bc48a7e89df2c9f6707bfb30be433c4372c"
+    },
+    {
+      "book": 6,
+      "path": "data/source/book-6.conllup",
+      "url": "https://raw.githubusercontent.com/CIRCSE/LASLA/c2e2bb6500b5ef9c6f5f31df6774423e9bb9fddc/conllup/Caesar_BellumGallicum_CaesBG6.conllup",
+      "sha256": "6720c1ad2d05bcfacc2a83e01204f45cc71d13cd90f02beef61cfc08dfc31ea9"
+    },
+    {
+      "book": 7,
+      "path": "data/source/book-7.conllup",
+      "url": "https://raw.githubusercontent.com/CIRCSE/LASLA/c2e2bb6500b5ef9c6f5f31df6774423e9bb9fddc/conllup/Caesar_BellumGallicum_CaesBG7.conllup",
+      "sha256": "d543da4746709902ac0b8e4bbdbd349e71ac70a4fc6653b1e45eb5c0403ba7b6"
+    },
+    {
+      "book": 8,
+      "path": "data/source/book-8.conllup",
+      "url": "https://raw.githubusercontent.com/CIRCSE/LASLA/c2e2bb6500b5ef9c6f5f31df6774423e9bb9fddc/conllup/Hirtius_Bellum8Gallicum_HirtBG8.conllup",
+      "sha256": "19d13add51ee6ec5bd07d0e6c1cfd730a9ce6f9d9c9a4e199151bf2ae60abe02"
+    }
+  ]
+}

@@ -1,0 +1,1046 @@
+posição,lema,infinitivo,português,ocorrências,livro 1,livro 2,livro 3,livro 4,livro 5,livro 6,livro 7,livro 8
+1,sum,esse,ser; estar; existir,1112,228,97,77,118,153,131,179,129
+2,possum,posse,poder; ser capaz de,353,63,32,24,32,46,29,76,51
+3,facio,facere,fazer; realizar; produzir,307,70,31,25,31,45,16,48,41
+4,habeo,habere,ter; possuir; considerar,194,45,8,11,17,22,37,34,20
+5,mitto,mittere,enviar; mandar; lançar,184,26,13,18,16,29,19,37,26
+6,uideo,uidere,ver; perceber,169,17,19,5,6,23,23,51,25
+7,cognosco,cognoscere,conhecer; reconhecer; inteirar-se,160,15,8,7,17,33,15,36,29
+8,uenio,uenire,vir; chegar,152,25,14,7,20,23,17,28,18
+9,iubeo,iubere,ordenar; mandar,115,14,7,8,13,24,8,38,3
+10,dico,dicere,dizer; declarar,112,31,11,6,14,15,11,16,8
+11,do,dare,dar; conceder,111,20,9,12,16,14,5,22,13
+12,interficio,interficere,matar; destruir,94,4,5,6,7,25,8,28,11
+13,proficiscor,proficisci,partir; pôr-se a caminho,94,9,4,7,7,14,16,23,14
+14,relinquo,relinquere,deixar; abandonar,91,7,4,9,4,22,12,23,10
+15,recipio,recipere,receber; recuperar; retirar-se (se recipere),90,10,6,8,13,6,11,21,15
+16,existimo,existimare,julgar; considerar,89,13,4,8,9,8,11,26,10
+17,gero,gerere,levar; conduzir; travar (guerra),89,8,6,11,6,10,4,25,19
+18,constituo,constituere,estabelecer; decidir; posicionar,86,11,7,3,12,9,14,23,7
+19,cogo,cogere,reunir; obrigar,85,7,2,4,4,13,14,26,15
+20,contendo,contendere,esforçar-se; disputar; marchar rapidamente,85,20,10,10,6,10,8,12,9
+21,capio,capere,tomar; capturar; escolher,78,8,0,6,7,11,12,20,14
+22,peto,petere,buscar; pedir; atacar,78,12,8,6,12,8,10,12,10
+23,fero,ferre,levar; suportar; trazer,75,11,5,9,11,6,9,17,7
+24,uolo,uelle,querer; desejar,70,24,0,6,7,13,7,7,6
+25,transeo,transire,atravessar; passar,69,15,10,3,13,8,8,7,5
+26,conuenio,conuenire,reunir-se; chegar a um acordo,67,6,4,5,7,16,9,14,6
+27,accipio,accipere,receber; aceitar; saber por informação,66,7,4,5,3,13,11,16,7
+28,impero,imperare,ordenar; comandar,65,9,6,1,7,13,5,18,6
+29,coepio,coepisse,começar (verbo de perfeito: coepi),64,10,9,7,7,15,0,13,3
+30,fio,fieri,tornar-se; acontecer; ser feito,64,5,6,8,3,11,5,15,11
+31,pugno,pugnare,combater; lutar,61,10,11,8,3,9,3,15,2
+32,accido,accidere,acontecer; cair sobre; cortar (homógrafos),60,7,1,8,6,8,6,9,15
+33,conficio,conficere,concluir; realizar; esgotar,60,8,5,7,5,3,8,15,9
+34,peruenio,peruenire,chegar; alcançar,60,8,4,7,5,10,6,18,2
+35,infero,inferre,levar para dentro; infligir; mover (guerra),54,13,9,0,6,5,8,7,6
+36,teneo,tenere,segurar; manter; ocupar,54,13,3,9,6,6,3,12,2
+37,utor,uti,usar; servir-se de (+ ablativo),54,11,8,2,10,6,9,6,2
+38,prohibeo,prohibere,impedir; afastar,53,11,3,2,7,5,5,10,10
+39,discedo,discedere,afastar-se; partir,52,6,3,1,5,19,3,12,3
+40,absum,abesse,estar ausente; estar distante,50,10,8,4,3,9,3,12,1
+41,adduco,adducere,conduzir a; trazer; induzir,50,12,2,3,6,5,3,10,9
+42,intelligo,intelligere,compreender; perceber,49,13,4,8,3,7,1,9,4
+43,pono,ponere,pôr; colocar; estabelecer,49,3,6,6,1,5,4,17,7
+44,consisto,consistere,parar; tomar posição; consistir,48,3,8,6,5,4,8,12,2
+45,instituo,instituere,estabelecer; organizar; começar,48,1,0,7,3,7,10,17,3
+46,colloco,collocare,colocar; instalar; posicionar,46,5,5,6,1,6,2,10,11
+47,sustineo,sustinere,sustentar; resistir; suportar,45,4,4,2,6,6,4,12,7
+48,appello,appellare,chamar; dirigir-se a; aportar (homógrafos),44,9,2,3,3,8,5,11,3
+49,arbitror,arbitrari,julgar; pensar,44,6,2,5,13,4,7,4,3
+50,consuesco,consuescere,acostumar-se,44,7,2,4,5,7,3,9,7
+51,ago,agere,fazer; agir; conduzir,43,9,5,4,3,6,2,9,5
+52,conicio,conicere,lançar; arremessar; supor,43,6,4,6,6,8,2,8,3
+53,duco,ducere,conduzir; levar; considerar,43,11,4,1,4,5,5,8,5
+54,perterreo,perterrere,aterrorizar,43,5,2,1,5,4,6,10,10
+55,dimitto,dimittere,despedir; enviar em várias direções,42,3,3,3,3,7,9,7,7
+56,committo,committere,confiar; cometer; iniciar (batalha),41,10,3,1,6,4,2,9,6
+57,contineo,continere,conter; manter; reter,39,5,4,4,3,7,4,7,5
+58,demonstro,demonstrare,mostrar; indicar,38,1,4,0,3,11,5,13,1
+59,deligo,deligere,escolher; amarrar (homógrafos),37,7,3,2,3,3,2,9,8
+60,intermitto,intermittere,interromper; deixar um intervalo,37,5,1,2,3,10,2,11,3
+61,deduco,deducere,conduzir para baixo; retirar; levar,36,2,5,0,1,6,3,13,6
+62,traduco,traducere,conduzir através; fazer atravessar,36,9,4,0,3,2,5,9,4
+63,animaduerto,animaduertere,perceber; prestar atenção; punir,35,7,0,2,4,3,1,8,10
+64,conor,conari,tentar; esforçar-se,35,11,4,4,0,2,3,8,3
+65,audio,audire,ouvir; escutar,34,3,3,4,5,3,3,9,4
+66,confirmo,confirmare,fortalecer; assegurar; confirmar,34,5,3,1,2,4,7,10,2
+67,exspecto,exspectare,esperar; aguardar,34,3,4,3,4,5,6,9,0
+68,efficio,efficere,efetuar; produzir; conseguir,33,1,2,2,9,4,5,8,2
+69,trado,tradere,entregar; transmitir,33,4,4,1,1,1,4,13,5
+70,accedo,accedere,aproximar-se; juntar-se,32,4,2,3,3,9,0,6,5
+71,audeo,audere,ousar; atrever-se,32,5,4,1,3,4,7,5,3
+72,confero,conferre,reunir; levar; comparar,32,9,4,1,2,0,6,7,3
+73,defendo,defendere,defender; proteger,32,4,5,3,2,3,4,7,4
+74,insequor,insequi,perseguir; seguir de perto,32,3,2,1,0,6,0,6,14
+75,progredior,progredi,avançar; progredir,32,1,2,0,4,9,3,10,3
+76,sequor,sequi,seguir; acompanhar,32,7,2,1,5,5,3,8,1
+77,munio,munire,fortificar; construir defesas,31,5,6,4,0,6,0,5,5
+78,resisto,resistere,resistir; deter-se,31,2,3,2,4,7,0,3,10
+79,uereor,uereri,temer; respeitar,31,4,2,0,2,9,2,6,6
+80,nuntio,nuntiare,anunciar; informar,30,7,5,0,4,4,1,8,1
+81,occupo,occupare,ocupar; apoderar-se de,30,11,1,1,5,1,3,5,3
+82,circumuenio,circumuenire,cercar; envolver; surpreender,29,3,5,2,1,5,5,5,3
+83,dispono,disponere,dispor; distribuir,29,1,0,0,1,2,1,12,12
+84,eo,ire,ir,29,10,0,3,0,5,2,7,2
+85,polliceor,polliceri,prometer,29,6,4,0,6,3,3,4,3
+86,supero,superare,superar; vencer,29,7,1,6,4,2,4,2,3
+87,iudico,iudicare,julgar; considerar,28,6,1,0,2,3,3,4,9
+88,paro,parare,preparar; obter,28,1,0,2,3,4,3,8,7
+89,reduco,reducere,conduzir de volta; retirar,28,6,1,1,2,4,4,10,0
+90,reuertor,reuerti,voltar; retornar,28,4,2,1,7,4,4,4,2
+91,consido,considere,estabelecer-se; acampar; sentar-se,27,5,2,1,1,3,4,8,3
+92,doceo,docere,ensinar; informar,27,2,2,2,0,6,5,5,5
+93,moror,morari,demorar; permanecer; retardar,27,2,3,1,2,4,1,7,7
+94,obtineo,obtinere,manter; ocupar; obter,27,8,1,0,2,4,2,9,1
+95,reperio,reperire,encontrar; descobrir,27,9,3,2,1,5,4,3,0
+96,confido,confidere,confiar; ter confiança,26,4,1,4,1,3,2,8,3
+97,defero,deferre,levar; comunicar; conferir,26,0,3,1,2,10,5,4,1
+98,egredior,egredi,sair; desembarcar,26,2,3,0,5,2,4,10,0
+99,oppugno,oppugnare,atacar; assaltar,26,3,4,1,0,10,1,4,3
+100,premo,premere,pressionar; oprimir; perseguir,26,1,1,2,6,4,1,10,1
+101,adeo,adire,ir até; aproximar-se; enfrentar,25,0,1,2,4,1,6,6,5
+102,coniungo,coniungere,unir; ligar,25,2,3,2,2,2,2,5,7
+103,educo,educere,conduzir para fora; criar (homógrafos),25,3,1,2,2,3,0,11,3
+104,instruo,instruere,dispor; equipar; preparar,25,6,7,0,0,3,0,2,7
+105,administro,administrare,administrar; executar,24,0,2,2,4,4,1,10,1
+106,amitto,amittere,perder; deixar escapar,24,2,1,3,2,2,2,5,7
+107,cohortor,cohortari,exortar; encorajar,24,1,7,2,1,3,2,8,0
+108,dimico,dimicare,combater; lutar,24,0,1,2,0,4,3,8,6
+109,patior,pati,sofrer; suportar; permitir,24,5,2,1,2,1,4,4,5
+110,pertineo,pertinere,estender-se; pertencer; dizer respeito,24,6,2,2,1,4,4,3,2
+111,tollo,tollere,levantar; retirar; eliminar,24,4,0,1,2,2,6,6,3
+112,comparo,comparare,preparar; reunir; comparar,23,5,1,2,3,3,2,3,4
+113,incendo,incendere,incendiar; inflamar,23,2,1,2,3,0,2,11,2
+114,ineo,inire,entrar; iniciar; adotar (plano),23,0,2,2,2,2,4,8,3
+115,orior,oriri,nascer; surgir,23,3,2,0,1,5,4,6,2
+116,perspicio,perspicere,ver claramente; examinar,23,2,5,3,3,4,0,6,0
+117,perturbo,perturbare,perturbar; desorganizar,23,2,2,0,6,2,2,5,4
+118,puto,putare,pensar; julgar,23,7,0,2,1,2,5,3,3
+119,perfero,perferre,levar até o fim; suportar; comunicar,22,2,2,2,1,7,0,5,3
+120,praesum,praeesse,estar à frente; comandar,22,9,2,2,0,4,3,2,0
+121,statuo,statuere,estabelecer; decidir,22,5,2,2,3,2,0,4,4
+122,uinco,uincere,vencer; derrotar,22,10,1,1,0,1,2,3,4
+123,affero,afferre,trazer; apresentar; causar,21,2,1,0,0,3,5,5,5
+124,consequor,consequi,alcançar; conseguir; seguir,21,3,1,2,2,1,2,5,5
+125,despero,desperare,desesperar; perder a esperança,21,4,1,3,1,2,2,6,2
+126,impedio,impedire,impedir; dificultar,21,2,4,2,0,3,0,9,1
+127,ostendo,ostendere,mostrar; indicar,21,5,0,3,2,4,0,6,1
+128,pello,pellere,expulsar; repelir,21,8,4,3,2,0,0,3,1
+129,procedo,procedere,avançar; prosseguir,21,2,2,0,3,1,3,5,5
+130,quaero,quaerere,procurar; perguntar,21,8,3,0,1,0,2,2,5
+131,compleo,complere,encher; completar,20,1,1,4,3,3,1,6,1
+132,euoco,euocare,chamar para fora; convocar,20,0,0,1,2,4,3,6,4
+133,fugio,fugere,fugir; evitar,20,1,2,0,1,2,3,9,2
+134,hortor,hortari,exortar; encorajar,20,2,0,2,3,4,1,7,1
+135,persuadeo,persuadere,persuadir (+ dativo),20,8,2,2,0,6,1,1,0
+136,postulo,postulare,exigir; solicitar,20,9,3,0,5,0,1,0,2
+137,praeficio,praeficere,pôr à frente; nomear comandante,20,2,1,1,0,6,2,6,2
+138,praemitto,praemittere,enviar adiante,20,2,3,0,4,1,2,3,5
+139,probo,probare,aprovar; comprovar,20,1,0,1,1,4,4,5,4
+140,prouideo,prouidere,prever; providenciar,20,0,2,4,1,3,5,5,0
+141,refero,referre,trazer de volta; relatar,20,6,1,0,3,2,2,2,4
+142,retineo,retinere,reter; conservar; conter,20,2,3,4,2,1,0,6,2
+143,scio,scire,saber,20,4,0,1,0,5,2,0,8
+144,timeo,timere,temer,20,5,1,2,2,3,0,3,4
+145,uulnero,uulnerare,ferir,20,2,1,0,2,4,0,3,8
+146,diuido,diuidere,dividir; separar,19,7,0,1,0,1,1,5,4
+147,hiemo,hiemare,passar o inverno,19,1,1,5,1,5,2,2,2
+148,impetro,impetrare,obter mediante pedido,19,5,1,2,4,4,1,2,0
+149,occido,occidere,cair; morrer; matar (homógrafos),19,4,4,1,3,5,1,1,0
+150,permaneo,permanere,permanecer,19,1,0,1,1,0,5,2,9
+151,subsequor,subsequi,seguir de perto,19,0,2,0,5,3,4,2,3
+152,adorior,adoriri,atacar; empreender,18,2,2,3,2,1,2,5,1
+153,appropinquo,appropinquare,aproximar-se,18,0,3,0,3,1,2,7,2
+154,conspicio,conspicere,avistar; perceber,18,1,3,2,5,3,2,2,0
+155,consumo,consumere,consumir; gastar; destruir,18,1,0,0,1,6,1,5,4
+156,licet,licere,ser permitido; ser lícito (impessoal),18,6,0,1,2,4,3,1,1
+157,moueo,mouere,mover; abalar,18,4,2,1,1,1,2,7,0
+158,nanciscor,nancisci,encontrar; obter; alcançar,18,1,0,0,4,4,1,7,1
+159,oportet,oportere,ser necessário; convir (impessoal),18,9,2,2,1,0,0,4,0
+160,perficio,perficere,completar; realizar,18,5,0,1,1,2,1,6,2
+161,potior,potiri,apoderar-se de; obter (+ ablativo),18,4,3,2,0,0,2,4,3
+162,praesto,praestare,prestar; proporcionar; destacar-se,18,2,3,1,3,2,2,3,2
+163,propono,proponere,expor; propor; colocar diante,18,2,1,1,1,3,2,6,2
+164,remitto,remittere,enviar de volta; relaxar; perdoar,18,2,2,1,2,5,1,2,3
+165,conuerto,conuertere,voltar; mudar; dirigir,17,3,1,2,1,2,2,2,4
+166,conuoco,conuocare,convocar; reunir,17,2,1,2,1,1,0,9,1
+167,deficio,deficere,faltar; abandonar; revoltar-se,17,0,2,2,1,3,2,4,3
+168,dubito,dubitare,duvidar; hesitar,17,4,2,0,0,1,1,6,3
+169,excedo,excedere,sair; retirar-se; exceder,17,0,1,2,4,3,1,5,1
+170,incito,incitare,incitar; estimular,17,1,0,4,6,0,0,3,3
+171,nascor,nasci,nascer; surgir,17,0,1,0,2,5,3,4,2
+172,opprimo,opprimere,oprimir; esmagar; surpreender,17,1,0,1,2,2,1,4,6
+173,proelior,proeliari,combater; travar batalha,17,0,1,0,2,1,0,2,11
+174,arcesso,arcessere,mandar vir; chamar,16,2,1,3,1,3,0,3,3
+175,cedo,cedere,ceder; retirar-se,16,0,1,0,0,6,1,4,4
+176,concedo,concedere,conceder; permitir; retirar-se,16,5,0,4,2,0,2,1,2
+177,consto,constare,constar; manter-se firme; ser certo,16,0,0,4,1,0,2,7,2
+178,debeo,debere,dever; estar obrigado,16,5,2,0,0,1,2,4,2
+179,occurro,occurrere,correr ao encontro; enfrentar,16,1,3,2,2,1,0,6,1
+180,permoueo,permouere,comover; abalar; induzir,16,1,2,1,2,5,1,3,1
+181,profugio,profugere,fugir; escapar,16,2,1,1,0,2,3,2,5
+182,pronuntio,pronuntiare,anunciar; proclamar,16,0,0,0,1,6,3,5,1
+183,respondeo,respondere,responder,16,8,1,0,4,2,0,1,0
+184,succedo,succedere,suceder; aproximar-se; substituir,16,2,0,1,2,1,2,6,2
+185,ualeo,ualere,ser forte; ter poder; valer,16,3,2,1,0,3,2,2,3
+186,attribuo,attribuere,atribuir; designar,15,0,0,2,1,1,2,7,2
+187,concurro,concurrere,correr junto; enfrentar-se,15,1,2,1,0,2,1,7,1
+188,dedo,dedere,entregar; render,15,0,4,4,1,2,0,4,0
+189,deicio,deicere,lançar para baixo; derrubar,15,1,1,2,4,2,1,4,0
+190,desum,deesse,faltar; estar ausente,15,2,1,0,3,4,2,0,3
+191,dispergo,dispergere,dispersar; espalhar,15,1,0,1,1,1,5,2,4
+192,excipio,excipere,receber; interceptar; excetuar,15,1,0,2,1,1,2,5,3
+193,expello,expellere,expulsar,15,0,1,1,3,3,2,3,2
+194,exploro,explorare,explorar; investigar,15,0,1,1,1,4,2,3,3
+195,incolo,incolere,habitar; morar,15,5,3,0,4,2,0,0,1
+196,iuro,iurare,jurar,15,5,0,0,2,2,2,4,0
+197,perduco,perducere,conduzir até; levar a cabo,15,1,0,3,0,2,1,6,2
+198,produco,producere,conduzir para a frente; prolongar,15,1,0,3,1,1,0,8,1
+199,studeo,studere,dedicar-se; empenhar-se (+ dativo),15,1,2,1,1,0,6,4,0
+200,suscipio,suscipere,assumir; empreender; acolher,15,4,0,1,0,0,1,3,6
+201,assum,adesse,estar presente; auxiliar (adsum),14,3,0,0,0,3,3,3,2
+202,augeo,augere,aumentar; ampliar,14,1,0,1,1,2,2,7,0
+203,interpono,interponere,interpor; inserir,14,1,0,0,3,2,1,2,5
+204,pateo,patere,estar aberto; estender-se,14,1,2,0,0,1,3,5,2
+205,persequor,persequi,perseguir; prosseguir,14,2,0,0,0,2,0,3,7
+206,sentio,sentire,sentir; perceber; opinar,14,2,0,1,2,3,0,5,1
+207,sollicito,sollicitare,instigar; inquietar; aliciar,14,0,1,1,0,3,2,5,2
+208,afficio,afficere,afetar; atingir; infligir,13,3,0,0,0,2,0,5,3
+209,attingo,attingere,tocar; atingir; confinar com,13,1,3,0,2,1,2,3,1
+210,comprehendo,comprehendere,agarrar; prender; compreender,13,0,0,1,1,4,2,3,2
+211,curo,curare,cuidar; providenciar,13,2,0,1,1,3,0,5,1
+212,desisto,desistere,desistir; cessar,13,4,1,0,1,0,3,4,0
+213,distribuo,distribuere,distribuir,13,0,0,1,0,2,1,6,3
+214,inquio,inquam,dizer (formas de inquam),13,0,0,0,1,3,2,7,0
+215,intercludo,intercludere,bloquear; cortar a passagem,13,2,0,3,2,0,0,6,0
+216,mando,mandare,ordenar; confiar; encarregar,13,3,1,1,1,1,2,3,1
+217,occulto,occultare,ocultar; esconder,13,1,0,0,0,1,5,6,0
+218,offero,offerre,oferecer; apresentar,13,0,1,0,2,0,3,4,3
+219,oro,orare,pedir; suplicar,13,1,0,0,2,2,2,4,2
+220,redeo,redire,voltar; regressar,13,1,1,0,1,3,3,2,2
+221,remaneo,remanere,permanecer; ficar,13,1,0,0,6,2,1,2,1
+222,spero,sperare,esperar; ter esperança,13,2,0,0,0,5,3,2,1
+223,tento,tentare,tentar; experimentar; atacar,13,2,0,2,0,1,1,5,2
+224,uasto,uastare,devastar; assolar,13,1,0,1,1,4,3,0,3
+225,abdo,abdere,esconder; retirar,12,2,1,0,2,3,1,3,0
+226,adiungo,adiungere,unir; acrescentar,12,0,0,1,0,1,3,5,2
+227,communico,communicare,partilhar; comunicar,12,0,0,0,1,1,6,3,1
+228,concido,concidere,cair; desabar; cortar (homógrafos),12,1,1,2,0,1,3,3,1
+229,consulo,consulere,consultar; deliberar; cuidar de,12,1,0,0,0,4,1,6,0
+230,eripio,eripere,arrancar; arrebatar; libertar,12,4,0,2,1,0,2,2,1
+231,expugno,expugnare,tomar de assalto; conquistar,12,1,3,5,0,0,0,3,0
+232,laboro,laborare,trabalhar; sofrer; estar em dificuldade,12,2,0,0,1,1,0,8,0
+233,negligo,negligere,negligenciar; desprezar,12,2,0,2,1,2,2,3,0
+234,nolo,nolle,não querer,12,3,1,2,1,3,0,1,1
+235,permitto,permittere,permitir; confiar,12,2,2,1,0,3,0,2,2
+236,recuso,recusare,recusar; rejeitar,12,3,0,1,1,2,0,2,3
+237,redigo,redigere,reduzir; reconduzir,12,1,5,0,1,1,0,2,2
+238,reficio,reficere,refazer; reparar; reanimar,12,0,0,1,2,3,0,5,1
+239,tueor,tueri,proteger; observar,12,0,0,0,1,1,4,2,4
+240,circumdo,circumdare,cercar; rodear,11,2,0,0,1,0,1,2,5
+241,cogito,cogitare,pensar; planejar,11,2,0,1,0,2,2,3,1
+242,comperio,comperire,descobrir; saber com certeza,11,3,0,0,2,0,2,1,3
+243,conspicor,conspicari,avistar; perceber,11,1,2,0,0,2,2,4,0
+244,credo,credere,crer; confiar; acreditar,11,0,1,1,0,1,4,0,4
+245,effero,efferre,levar para fora; elevar,11,2,0,0,0,2,1,4,2
+246,excito,excitare,despertar; estimular; levantar,11,0,0,3,0,1,2,4,1
+247,experior,experiri,experimentar; tentar; provar,11,2,1,2,2,1,0,2,1
+248,expono,exponere,expor; desembarcar,11,0,0,0,2,2,0,5,2
+249,intercedo,intercedere,intervir; interpor-se,11,3,1,0,0,3,0,3,1
+250,minuo,minuere,diminuir; enfraquecer,11,1,0,1,1,3,2,2,1
+251,noceo,nocere,prejudicar; fazer mal (+ dativo),11,0,0,3,1,5,2,0,0
+252,proicio,proicere,lançar adiante; abandonar,11,2,1,0,1,1,0,5,1
+253,queror,queri,queixar-se,11,5,0,0,2,0,1,2,1
+254,reddo,reddere,devolver; tornar; prestar,11,4,1,0,0,0,3,3,0
+255,seruo,seruare,conservar; salvar; guardar,11,0,1,0,1,1,5,3,0
+256,uersor,uersari,encontrar-se; ocupar-se; mover-se,11,2,3,0,0,1,2,3,0
+257,alo,alere,alimentar; sustentar,10,1,0,0,3,1,2,2,1
+258,ascendo,ascendere,subir; escalar,10,1,1,0,0,2,0,4,2
+259,circumsisto,circumsistere,cercar; colocar-se ao redor,10,1,0,1,3,2,0,3,0
+260,claudo,claudere,fechar; encerrar,10,1,2,1,0,0,0,2,4
+261,colligo,colligare,reunir; recolher,10,1,0,3,0,1,1,1,3
+262,colloquor,colloqui,conversar; conferenciar,10,3,0,0,1,4,0,2,0
+263,conclamo,conclamare,gritar em conjunto; clamar,10,1,0,1,0,2,0,5,1
+264,conscribo,conscribere,escrever; alistar; recrutar,10,2,3,0,0,2,2,0,1
+265,differo,differre,diferir; adiar; espalhar,10,1,0,0,0,2,5,1,1
+266,diripio,diripere,saquear; pilhar,10,0,1,0,0,0,2,7,0
+267,exeo,exire,sair; partir,10,6,1,0,0,1,0,2,0
+268,intercipio,intercipere,interceptar; capturar,10,0,1,2,0,3,0,0,4
+269,intereo,interire,morrer; perecer,10,0,0,0,0,2,1,5,2
+270,intericio,intericere,lançar entre; intercalar,10,0,2,2,0,0,0,5,1
+271,intersum,interesse,estar entre; participar; distar,10,1,1,0,1,1,3,2,1
+272,lacesso,lacessere,provocar; atacar,10,3,0,0,4,1,1,1,0
+273,maneo,manere,permanecer; ficar,10,1,0,0,1,4,1,2,1
+274,repello,repellere,repelir; rechaçar,10,1,1,2,0,4,0,2,0
+275,subeo,subire,ir para baixo; aproximar-se; suportar,10,2,2,0,0,0,1,2,3
+276,subleuo,subleuare,levantar; aliviar; ajudar,10,3,0,0,0,0,2,4,1
+277,submitto,submittere,enviar como reforço; baixar; submeter,10,0,2,0,1,2,0,5,0
+278,sumo,sumere,tomar; assumir,10,4,1,1,0,0,1,1,2
+279,tardo,tardare,retardar; atrasar,10,0,1,0,0,0,1,7,1
+280,transporto,transportare,transportar; levar através,10,1,0,0,6,1,0,2,0
+281,tribuo,tribuere,atribuir; conceder,10,2,0,0,2,1,1,3,1
+282,uito,uitare,evitar,10,2,1,0,0,3,3,1,0
+283,addo,addere,acrescentar; adicionar,9,0,0,0,0,1,0,8,0
+284,antecedo,antecedere,preceder; superar,9,0,0,1,2,0,2,4,0
+285,auerto,auertere,desviar; afastar,9,3,1,0,0,1,1,1,2
+286,censeo,censere,julgar; avaliar; propor,9,1,0,0,0,0,1,7,0
+287,comporto,comportare,reunir; transportar,9,1,0,3,2,2,0,0,1
+288,desero,deserere,abandonar; desertar,9,1,2,0,0,2,0,3,1
+289,impello,impellere,impelir; incitar,9,1,1,0,1,1,1,4,0
+290,incipio,incipere,começar,9,0,1,0,0,2,1,4,1
+291,insto,instare,insistir; pressionar; estar iminente,9,2,1,1,0,1,1,2,1
+292,inuenio,inuenire,encontrar; descobrir,9,1,1,0,0,3,1,1,2
+293,moneo,monere,advertir; aconselhar,9,1,1,0,1,2,1,2,1
+294,obsideo,obsidere,sitiar; ocupar,9,0,0,2,0,1,0,3,3
+295,paco,pacare,pacificar; submeter,9,1,2,3,1,0,1,1,0
+296,praecipio,praecipere,ordenar; aconselhar; instruir,9,1,0,0,0,3,1,2,2
+297,renuntio,renuntiare,anunciar; relatar,9,2,1,1,1,0,0,2,2
+298,rogo,rogare,perguntar; pedir,9,5,0,0,0,1,1,2,0
+299,uagor,uagari,vagar; andar sem rumo,9,1,0,1,2,2,0,2,1
+300,adigo,adigere,impelir; obrigar,8,0,1,2,2,1,0,2,0
+301,aggredior,aggredi,aproximar-se; atacar; empreender,8,2,2,0,0,0,0,0,4
+302,commemoro,commemorare,recordar; mencionar,8,2,1,0,2,1,0,0,2
+303,commoueo,commouere,mover; agitar; comover,8,5,2,1,0,0,0,0,0
+304,congredior,congredi,encontrar-se; combater,8,4,1,0,1,0,1,1,0
+305,conseruo,conseruare,conservar; salvar,8,0,5,1,0,0,1,1,0
+306,contingo,contingere,tocar; alcançar; acontecer,8,2,0,0,0,1,1,4,0
+307,decedo,decedere,retirar-se; partir,8,3,0,0,0,1,2,0,2
+308,decerno,decernere,decidir; decretar; combater,8,0,1,0,2,3,1,1,0
+309,deleo,delere,destruir; apagar,8,0,1,0,0,0,3,2,2
+310,demitto,demittere,baixar; deixar descer,8,0,0,0,0,1,1,5,1
+311,depono,deponere,depositar; abandonar,8,1,1,0,2,1,1,2,0
+312,desilio,desilire,saltar para baixo,8,0,0,0,6,2,0,0,0
+313,deterreo,deterrere,dissuadir pelo medo; afastar,8,2,1,0,0,2,0,0,3
+314,eicio,eicere,expulsar; lançar para fora,8,0,0,0,2,3,0,3,0
+315,enuntio,enuntiare,revelar; anunciar,8,7,0,0,0,1,0,0,0
+316,exanimo,exanimare,atemorizar; exaurir; matar,8,0,1,1,0,1,2,2,1
+317,iacio,iacere,lançar; arremessar,8,0,4,0,1,1,0,1,1
+318,impono,imponere,colocar sobre; impor,8,4,0,0,0,0,0,1,3
+319,incido,incidere,cair em; incidir; cortar (homógrafos),8,1,2,0,0,0,2,1,2
+320,indico,indicere,indicar; anunciar; declarar (homógrafos),8,1,0,0,0,1,2,4,0
+321,influo,influere,fluir para dentro; desembocar,8,2,0,1,3,0,1,1,0
+322,loquor,loqui,falar,8,4,1,0,0,1,2,0,0
+323,pareo,parere,obedecer; aparecer (homógrafos),8,1,0,0,0,2,1,2,2
+324,perrumpo,perrumpere,romper; atravessar à força,8,1,0,0,0,1,3,3,0
+325,recupero,recuperare,recuperar,8,0,0,2,0,1,0,5,0
+326,reuerto,reuertere,voltar; fazer voltar,8,2,2,0,1,1,0,2,0
+327,scribo,scribere,escrever,8,0,0,0,0,4,0,0,4
+328,suspicor,suspicari,suspeitar; supor,8,1,0,0,4,0,1,0,2
+329,tego,tegere,cobrir; proteger,8,0,0,0,0,2,1,2,3
+330,uoco,uocare,chamar; convocar,8,2,0,0,0,2,0,2,2
+331,adaequo,adaequare,igualar; nivelar,7,1,1,1,0,1,1,1,1
+332,adhibeo,adhibere,empregar; aplicar,7,2,0,1,1,0,1,2,0
+333,cerno,cernere,distinguir; perceber,7,0,0,0,0,0,2,5,0
+334,cingo,cingere,cercar; cingir,7,1,0,0,0,1,1,3,1
+335,compello,compellere,impelir; forçar; dirigir a palavra (homógrafos),7,0,1,0,0,2,0,4,0
+336,concito,concitare,agitar; incitar,7,0,0,0,0,2,0,3,2
+337,confligo,confligere,chocar-se; combater,7,0,1,0,0,2,0,1,3
+338,conquiro,conquirere,procurar; reunir,7,2,0,0,0,0,1,3,1
+339,cupio,cupere,desejar,7,1,1,3,0,0,0,0,2
+340,decerto,decertare,combater decisivamente; disputar,7,2,1,1,1,0,0,1,1
+341,depopulor,depopulari,devastar; saquear,7,1,1,0,0,0,2,2,1
+342,desidero,desiderare,desejar; sentir falta; dar por perdido,7,0,0,0,1,1,0,5,0
+343,detraho,detrahere,retirar; puxar para baixo,7,1,2,1,0,0,1,1,1
+344,distineo,distinere,manter separado; ocupar; distrair,7,0,1,1,1,0,0,4,0
+345,emitto,emittere,enviar para fora; lançar,7,1,1,0,0,4,1,0,0
+346,exsisto,exsistere,surgir; aparecer,7,0,0,1,0,2,2,1,1
+347,exstruo,exstruere,construir; erguer,7,0,1,1,0,0,1,2,2
+348,frumentor,frumentari,buscar trigo; abastecer-se de cereal,7,0,0,0,4,0,1,1,1
+349,importo,importare,trazer para dentro; importar,7,1,0,0,3,1,0,0,2
+350,interdico,interdicere,proibir; interditar,7,1,0,0,0,2,3,1,0
+351,nauigo,nauigare,navegar,7,0,0,2,3,2,0,0,0
+352,nosco,noscere,conhecer; reconhecer,7,0,0,1,0,0,4,1,1
+353,obicio,obicere,lançar diante; opor,7,2,0,0,0,2,2,1,0
+354,parco,parcere,poupar (+ dativo),7,0,0,0,0,2,2,3,0
+355,placeo,placere,agradar; parecer bem,7,1,0,1,0,0,0,5,0
+356,praedor,praedari,pilhar; saquear,7,0,2,1,2,1,0,1,0
+357,prodo,prodere,entregar; trair; revelar,7,1,0,0,1,1,3,1,0
+358,redintegro,redintegrare,renovar; recomeçar,7,1,3,1,0,0,0,2,0
+359,rescindo,rescindere,cortar; demolir,7,1,0,0,1,0,1,4,0
+360,restituo,restituere,restituir; restabelecer,7,4,0,0,0,1,1,1,0
+361,significo,significare,indicar; sinalizar,7,0,2,0,2,0,0,3,0
+362,specto,spectare,olhar; observar,7,3,0,0,0,3,0,1,0
+363,supersum,superesse,restar; sobreviver,7,2,2,1,0,2,0,0,0
+364,admitto,admittere,admitir; deixar entrar; cometer,6,1,0,1,1,0,1,2,0
+365,appeto,appetere,buscar; atacar; aproximar-se,6,3,0,0,0,0,1,2,0
+366,conduco,conducere,reunir; conduzir; contratar,6,1,2,0,0,1,1,1,0
+367,coniuro,coniurare,conspirar; jurar em conjunto,6,0,3,2,0,0,0,1,0
+368,consector,consectari,perseguir insistentemente,6,0,0,3,1,1,1,0,0
+369,contraho,contrahere,reunir; contrair,6,1,0,0,1,1,0,2,1
+370,coorior,cooriri,levantar-se em conjunto; surgir,6,0,0,1,1,2,0,2,0
+371,creo,creare,criar; eleger,6,1,0,0,0,0,0,4,1
+372,deminuo,deminuere,diminuir; reduzir,6,2,0,0,0,0,0,4,0
+373,deuinco,deuincere,vencer completamente,6,0,0,0,0,0,0,1,5
+374,elicio,elicere,fazer sair; atrair,6,0,0,0,0,1,1,1,3
+375,exaudio,exaudire,ouvir claramente,6,0,1,0,0,1,1,3,0
+376,expleo,explere,encher; completar,6,0,0,0,0,0,0,6,0
+377,fleo,flere,chorar; lamentar,6,4,0,0,0,0,0,2,0
+378,ignoro,ignorare,ignorar; desconhecer,6,1,0,0,0,1,1,2,1
+379,inicio,inicere,lançar sobre; inspirar,6,2,0,0,2,0,0,2,0
+380,intro,intrare,entrar,6,0,1,0,0,0,0,2,3
+381,libero,liberare,libertar,6,0,0,0,2,3,0,0,1
+382,neco,necare,matar,6,1,0,1,0,3,0,1,0
+383,nudo,nudare,desnudar; desguarnecer,6,0,2,1,0,1,0,2,0
+384,pendo,pendere,pesar; pagar,6,2,0,0,0,2,2,0,0
+385,praeacuo,praeacuere,aguçar na ponta,6,0,1,1,1,0,0,3,0
+386,praebeo,praebere,oferecer; proporcionar,6,0,1,2,0,0,1,1,1
+387,procurro,procurrere,correr para a frente; avançar,6,1,0,0,0,2,1,1,1
+388,refugio,refugere,recuar; refugiar-se,6,0,0,0,0,1,0,1,4
+389,reicio,reicere,rejeitar; lançar para trás,6,2,1,0,0,3,0,0,0
+390,remoueo,remouere,remover; afastar,6,2,0,0,1,2,0,1,0
+391,reuoco,reuocare,chamar de volta; revogar,6,0,1,1,0,2,0,1,1
+392,subduco,subducere,retirar; puxar para cima,6,2,0,0,1,3,0,0,0
+393,submoueo,submouere,afastar; remover,6,1,0,0,1,0,1,2,1
+394,supporto,supportare,transportar; fornecer,6,2,0,2,0,0,0,1,1
+395,terreo,terrere,amedrontar; aterrorizar,6,1,0,0,0,1,1,2,1
+396,traicio,traicere,atravessar; transpassar,6,0,0,0,0,2,0,2,2
+397,uerto,uertere,virar; voltar; mudar,6,1,0,2,2,0,0,1,0
+398,abicio,abicere,lançar fora; abandonar,5,0,0,0,2,2,0,1,0
+399,adhortor,adhortari,exortar; encorajar,5,0,0,0,0,1,1,3,0
+400,adiuuo,adiuuare,ajudar; auxiliar,5,0,1,0,0,1,0,3,0
+401,admiror,admirari,admirar; surpreender-se,5,1,0,0,0,1,0,2,1
+402,affligo,affligere,abater; afligir,5,0,0,0,1,1,2,0,1
+403,armo,armare,armar; equipar,5,0,0,2,1,1,0,1,0
+404,bello,bellare,guerrear,5,1,0,1,1,0,0,1,1
+405,cado,cadere,cair,5,1,1,0,1,1,1,0,0
+406,circumfundo,circumfundere,derramar ao redor; cercar,5,0,0,0,0,0,2,2,1
+407,colo,colere,cultivar; habitar; venerar,5,0,0,0,1,1,1,0,2
+408,commuto,commutare,mudar; trocar,5,1,0,1,0,0,1,2,0
+409,concilio,conciliare,conciliar; ganhar o favor,5,1,0,0,0,1,0,2,1
+410,consolor,consolari,consolar,5,1,0,0,0,2,0,2,0
+411,consterno,consternere,derrubar; cobrir; aterrorizar (homógrafos),5,0,0,0,1,0,0,1,3
+412,contemno,contemnere,desprezar,5,0,0,0,0,1,0,0,4
+413,decurro,decurrere,correr para baixo; percorrer,5,0,2,2,0,0,0,0,1
+414,defatigo,defatigare,cansar; fatigar,5,1,0,0,0,1,0,3,0
+415,demigro,demigrare,mudar de lugar; emigrar,5,0,0,0,2,1,0,0,2
+416,deprecor,deprecari,suplicar; pedir que se afaste,5,0,1,0,1,1,1,1,0
+417,deprehendo,deprehendere,surpreender; capturar; descobrir,5,0,0,0,0,2,1,2,0
+418,descendo,descendere,descer,5,0,0,0,0,1,1,3,0
+419,despicio,despicere,olhar de cima; desprezar,5,1,0,1,0,0,1,2,0
+420,disicio,disicere,dispersar; demolir,5,1,0,1,0,0,0,0,3
+421,dissipo,dissipare,dispersar; espalhar,5,0,1,0,0,1,1,0,2
+422,disto,distare,distar; estar separado,5,0,0,0,1,0,0,4,0
+423,effugio,effugere,escapar; evitar,5,0,0,0,1,1,1,0,2
+424,exerceo,exercere,exercitar; praticar; atormentar,5,1,0,0,0,1,2,1,0
+425,immitto,immittere,enviar contra; lançar dentro,5,0,0,0,2,1,1,1,0
+426,insisto,insistere,insistir; apoiar-se; deter-se,5,0,1,1,2,0,1,0,0
+427,inuito,inuitare,convidar; atrair,5,1,0,0,1,1,1,0,1
+428,irrumpo,irrumpere,irromper; invadir,5,0,0,0,1,1,1,2,0
+429,iuuo,iuuare,ajudar; agradar,5,2,1,0,0,0,1,1,0
+430,nego,negare,negar,5,1,0,0,0,3,1,0,0
+431,obtestor,obtestari,suplicar; invocar como testemunha,5,0,0,0,1,0,0,4,0
+432,pabulor,pabulari,buscar forragem,5,0,0,0,0,1,0,2,2
+433,perago,peragere,executar; completar,5,0,0,0,0,3,1,0,1
+434,populor,populari,devastar; saquear,5,2,2,0,0,1,0,0,0
+435,porto,portare,levar; transportar,5,1,2,0,0,2,0,0,0
+436,posco,poscere,exigir; pedir,5,2,1,0,0,1,0,1,0
+437,praedico,praedicare,proclamar; predizer (homógrafos),5,2,0,0,1,0,2,0,0
+438,procumbo,procumbere,cair para a frente; prostrar-se,5,0,1,0,1,0,2,1,0
+439,prodeo,prodire,avançar; sair,5,2,0,0,0,1,1,0,1
+440,proficio,proficere,progredir; conseguir,5,0,0,1,0,0,1,3,0
+441,promoueo,promouere,mover para a frente; promover,5,1,1,0,0,0,0,2,1
+442,prosequor,prosequi,acompanhar; seguir; tratar,5,0,2,0,1,2,0,0,0
+443,respicio,respicere,olhar para trás; considerar,5,0,1,0,0,1,0,2,1
+444,reuincio,reuincire,atar; amarrar firmemente,5,0,0,1,1,0,0,3,0
+445,satisfacio,satisfacere,satisfazer; dar explicações,5,1,0,0,0,3,0,1,0
+446,soluo,soluere,soltar; dissolver; pagar,5,0,0,0,3,2,0,0,0
+447,subicio,subicere,colocar debaixo; submeter,5,1,0,0,2,0,0,2,0
+448,subuenio,subuenire,socorrer; vir em auxílio,5,0,0,0,0,2,0,2,1
+449,succendo,succendere,incendiar,5,0,1,0,0,1,1,2,0
+450,suppeto,suppetere,estar disponível; bastar,5,2,0,0,0,0,0,3,0
+451,tolero,tolerare,suportar; sustentar,5,1,0,0,0,1,0,2,1
+452,uaco,uacare,estar livre; estar vazio,5,1,0,0,3,0,0,0,1
+453,uexo,uexare,maltratar; devastar; agitar,5,1,1,0,1,0,1,0,1
+454,uindico,uindicare,reivindicar; vingar; punir,5,0,0,1,0,0,0,2,2
+455,ulciscor,ulcisci,vingar; punir,5,2,0,0,1,1,1,0,0
+456,aduolo,aduolare,acorrer rapidamente; voar para,4,0,0,0,0,2,0,1,1
+457,aestimo,aestimare,avaliar; estimar,4,0,0,1,0,1,0,2,0
+458,assuefacio,assuefacere,acostumar; habituar,4,0,0,0,3,0,1,0,0
+459,circumuallo,circumuallare,circundar com fortificações,4,0,0,0,0,0,0,4,0
+460,collaudo,collaudare,elogiar; louvar,4,0,0,0,0,2,1,1,0
+461,confugio,confugere,refugiar-se,4,0,0,0,0,0,1,0,3
+462,consentio,consentire,concordar; conspirar,4,0,2,0,0,1,0,0,1
+463,contexo,contexere,entrelaçar; construir; ligar,4,0,0,0,1,0,1,1,1
+464,defetiscor,defetisci,cansar-se; desfalecer,4,1,0,0,0,0,0,3,0
+465,depello,depellere,repelir; afastar,4,0,0,1,0,0,1,2,0
+466,disco,discere,aprender,4,1,0,0,0,0,2,1,0
+467,doleo,dolere,sofrer; lamentar,4,1,0,1,0,1,0,1,0
+468,edoceo,edocere,ensinar completamente; informar,4,0,0,1,0,0,0,3,0
+469,excludo,excludere,excluir; impedir a entrada,4,0,0,0,0,1,1,2,0
+470,exuo,exuere,despir; retirar,4,0,0,1,0,1,0,2,0
+471,fallo,fallere,enganar; escapar à atenção,4,0,1,1,1,0,0,1,0
+472,ignosco,ignoscere,perdoar (+ dativo),4,1,0,0,2,0,0,1,0
+473,immolo,immolare,imolar; sacrificar,4,0,0,0,0,0,3,0,1
+474,imploro,implorare,implorar,4,3,0,0,0,1,0,0,0
+475,impugno,impugnare,atacar; combater,4,1,0,1,0,0,0,0,2
+476,induco,inducere,conduzir para dentro; induzir,4,2,1,0,0,0,0,0,1
+477,intego,integere,cobrir,4,0,0,0,0,0,0,3,1
+478,intromitto,intromittere,deixar entrar,4,0,1,0,0,1,0,2,0
+479,maturo,maturare,apressar; amadurecer,4,2,1,0,0,0,0,1,0
+480,mereor,mereri,merecer; servir (no exército),4,3,0,0,0,0,0,1,0
+481,obseruo,obseruare,observar; vigiar,4,1,0,0,0,1,1,1,0
+482,obuenio,obuenire,sobrevir; caber em sorte,4,0,1,0,0,0,0,2,1
+483,ostento,ostentare,mostrar; ostentar,4,0,0,0,0,1,0,3,0
+484,pando,pandere,abrir; estender,4,1,1,0,0,0,0,2,0
+485,partio,partire,dividir; repartir,4,0,0,1,0,0,2,1,0
+486,pereo,perire,perecer; morrer,4,1,0,0,1,0,2,0,0
+487,periclitor,periclitari,correr perigo; experimentar,4,0,1,0,0,0,1,2,0
+488,praescribo,praescribere,prescrever; determinar,4,2,1,0,0,0,0,0,1
+489,profero,proferre,levar adiante; revelar,4,0,0,0,0,0,0,3,1
+490,profiteor,profiteri,declarar publicamente; professar,4,0,0,0,0,1,1,2,0
+491,propello,propellere,empurrar para a frente; repelir,4,1,0,0,1,1,0,1,0
+492,purgo,purgare,limpar; justificar,4,1,0,0,1,0,1,1,0
+493,reprehendo,reprehendere,repreender; censurar; deter,4,1,0,0,0,1,0,2,0
+494,repugno,repugnare,resistir; lutar contra,4,1,0,1,0,0,0,1,1
+495,reseruo,reseruare,reservar; conservar,4,1,0,1,0,1,0,1,0
+496,restinguo,restinguere,apagar; extinguir,4,0,0,0,0,0,0,2,2
+497,spolio,spoliare,despojar; saquear,4,0,0,0,0,1,0,1,2
+498,sto,stare,estar de pé; permanecer,4,0,0,0,0,2,2,0,0
+499,subsisto,subsistere,parar; resistir,4,1,0,0,0,1,0,0,2
+500,subsum,subesse,estar debaixo; estar próximo,4,1,0,1,0,2,0,0,0
+501,sustento,sustentare,sustentar; resistir,4,0,2,0,0,1,0,1,0
+502,tendo,tendere,estender; dirigir-se; esforçar-se,4,0,1,0,0,0,1,2,0
+503,territo,territare,atemorizar repetidamente,4,0,0,0,0,3,0,1,0
+504,transfigo,transfigere,transpassar; atravessar,4,1,0,0,0,2,0,1,0
+505,transgredior,transgredi,atravessar; passar além,4,0,1,0,0,0,0,2,1
+506,uergo,uergere,inclinar-se; voltar-se para,4,1,1,0,1,1,0,0,0
+507,abstineo,abstinere,abster-se; conter,3,1,0,0,0,0,0,1,1
+508,abstraho,abstrahere,arrastar para longe; retirar,3,0,0,1,0,0,0,2,0
+509,abundo,abundare,abundar; transbordar,3,0,0,0,0,0,0,2,1
+510,accuso,accusare,acusar,3,2,0,0,0,0,0,1,0
+511,adicio,adicere,acrescentar; lançar para,3,0,0,1,0,1,0,1,0
+512,admoneo,admonere,advertir; lembrar,3,0,0,0,0,1,0,0,2
+513,aedifico,aedificare,construir,3,0,0,1,0,1,1,0,0
+514,ardeo,ardere,arder; queimar,3,0,0,0,0,1,1,0,1
+515,ascisco,asciscere,adotar; associar a si,3,1,0,1,0,0,0,0,1
+516,auxilior,auxiliari,auxiliar; socorrer,3,0,0,0,1,0,0,2,0
+517,caedo,caedere,cortar; matar,3,0,0,2,0,0,0,0,1
+518,careo,carere,carecer de; estar privado de (+ ablativo),3,0,0,0,0,0,1,1,1
+519,caueo,cauere,acautelar-se; tomar cuidado,3,1,0,0,0,0,1,1,0
+520,celo,celare,ocultar,3,0,2,0,0,0,0,1,0
+521,circumeo,circumire,rodear; contornar,3,0,0,1,0,1,0,1,0
+522,circummitto,circummittere,enviar em várias direções,3,0,0,0,0,2,0,1,0
+523,circumspicio,circumspicere,olhar ao redor; examinar,3,0,0,0,0,1,2,0,0
+524,commendo,commendare,recomendar; confiar,3,0,0,0,1,0,0,0,2
+525,commoror,commorari,demorar-se; permanecer,3,0,0,0,0,1,0,1,1
+526,communio,communire,fortificar; proteger,3,1,0,0,0,1,1,0,0
+527,complector,complecti,abraçar; abranger,3,1,0,0,0,0,0,2,0
+528,condono,condonare,perdoar; conceder,3,2,0,0,0,0,0,0,1
+529,conscendo,conscendere,subir; embarcar,3,0,0,0,1,2,0,0,0
+530,defigo,defigere,cravar; fixar,3,0,0,0,1,2,0,0,0
+531,delibero,deliberare,deliberar; ponderar,3,1,0,0,1,0,0,1,0
+532,denuntio,denuntiare,anunciar; intimar,3,1,0,0,0,1,1,0,0
+533,deperdo,deperdere,perder inteiramente,3,1,0,1,0,1,0,0,0
+534,deposco,deposcere,reclamar; exigir,3,0,0,0,0,0,0,1,2
+535,destino,destinare,fixar; determinar; destinar,3,0,0,1,0,0,0,2,0
+536,destringo,destringere,desembainhar; arrancar,3,1,0,0,0,0,0,1,1
+537,deuenio,deuenire,chegar; alcançar,3,0,2,0,0,0,0,0,1
+538,diffido,diffidere,desconfiar; perder a confiança,3,0,0,0,0,1,2,0,0
+539,diffugio,diffugere,fugir em várias direções,3,0,0,0,0,0,0,0,3
+540,emineo,eminere,sobressair; projetar-se,3,0,0,0,0,0,0,3,0
+541,erro,errare,errar; vagar,3,0,0,0,0,1,0,1,1
+542,erumpo,erumpere,irromper; sair à força,3,0,0,1,0,0,0,0,2
+543,euito,euitare,evitar,3,0,0,0,0,0,0,0,3
+544,excrucio,excruciare,torturar; atormentar,3,0,0,0,0,0,1,2,0
+545,excubo,excubare,montar guarda,3,0,0,0,0,0,0,3,0
+546,expedio,expedire,desembaraçar; preparar; resolver,3,0,0,0,0,0,0,3,0
+547,explico,explicare,desdobrar; explicar,3,0,0,0,0,0,0,0,3
+548,fingo,fingere,modelar; inventar; fingir,3,1,0,0,1,0,1,0,0
+549,finio,finire,terminar; delimitar,3,0,0,0,1,0,2,0,0
+550,firmo,firmare,fortalecer; consolidar,3,0,0,0,0,0,1,0,2
+551,frango,frangere,quebrar; abater,3,1,0,0,1,0,0,0,1
+552,fungor,fungi,desempenhar; exercer (+ ablativo),3,0,0,0,0,0,0,1,2
+553,iacto,iactare,lançar; agitar; vangloriar-se,3,2,0,0,0,0,0,1,0
+554,induo,induere,vestir; pôr; introduzir,3,0,1,0,0,0,0,2,0
+555,ingredior,ingredi,entrar; avançar,3,0,1,0,0,1,0,0,1
+556,iniungo,iniungere,impor; ordenar; ligar,3,0,0,0,0,0,0,1,2
+557,insidior,insidiari,armar uma emboscada (+ dativo),3,0,0,0,0,0,1,1,1
+558,insimulo,insimulare,acusar,3,0,0,0,0,0,0,3,0
+559,interscindo,interscindere,cortar; interromper,3,0,1,0,0,0,0,1,1
+560,introduco,introducere,introduzir; conduzir para dentro,3,0,2,1,0,0,0,0,0
+561,iungo,iungere,unir; ligar,3,2,0,0,1,0,0,0,0
+562,memini,meminisse,lembrar-se (verbo de perfeito),3,0,0,1,0,0,0,1,1
+563,mereo,merere,merecer; servir como soldado,3,0,0,0,0,0,1,2,0
+564,metior,metiri,medir,3,2,0,0,0,0,0,1,0
+565,negotior,negotiari,negociar; comerciar,3,0,0,0,0,0,0,3,0
+566,nitor,niti,apoiar-se; esforçar-se,3,1,0,0,0,0,1,1,0
+567,obsecro,obsecrare,suplicar; implorar,3,1,0,0,0,0,0,2,0
+568,obstruo,obstruere,obstruir; bloquear,3,0,0,0,0,2,0,1,0
+569,obtempero,obtemperare,obedecer (+ dativo),3,0,0,0,1,0,0,1,1
+570,omitto,omittere,deixar de lado; abandonar,3,0,1,0,0,0,0,2,0
+571,oppono,opponere,opor; colocar diante,3,0,0,0,0,0,1,1,1
+572,percello,percellere,abalar; derrubar,3,0,0,0,0,0,0,0,3
+573,percipio,percipere,perceber; receber; compreender,3,0,0,0,0,0,2,1,0
+574,percurro,percurrere,percorrer,3,0,0,0,1,0,0,0,2
+575,perfugio,perfugere,refugiar-se; desertar para,3,1,0,0,0,1,0,1,0
+576,possideo,possidere,possuir; ocupar,3,1,1,0,0,0,1,0,0
+577,praecurro,praecurrere,correr à frente; preceder,3,0,0,0,0,0,1,2,0
+578,praeparo,praeparare,preparar de antemão,3,0,0,1,0,1,0,1,0
+579,praetereo,praeterire,passar além; omitir,3,0,0,0,0,0,0,3,0
+580,praetermitto,praetermittere,deixar passar; omitir,3,0,0,0,1,0,1,1,0
+581,praeuro,praeurere,queimar na ponta,3,0,0,0,0,1,0,2,0
+582,propero,properare,apressar-se,3,0,2,0,0,1,0,0,0
+583,propugno,propugnare,combater em defesa,3,0,1,0,0,1,0,1,0
+584,prospicio,prospicere,olhar adiante; providenciar,3,1,0,0,0,1,0,1,0
+585,recedo,recedere,recuar; retirar-se,3,0,0,0,0,1,0,0,2
+586,redimo,redimere,resgatar; comprar,3,3,0,0,0,0,0,0,0
+587,renouo,renouare,renovar,3,0,0,2,0,0,0,0,1
+588,sancio,sancire,sancionar; estabelecer solenemente,3,1,0,0,0,0,1,1,0
+589,soleo,solere,costumar,3,0,0,0,0,0,1,1,1
+590,speculor,speculari,observar; espiar,3,1,0,0,0,0,0,0,2
+591,subministro,subministrare,fornecer; auxiliar,3,1,0,1,1,0,0,0,0
+592,subtraho,subtrahere,retirar; subtrair,3,1,0,0,0,0,0,1,1
+593,succido,succidere,cortar por baixo; cair sob (homógrafos),3,0,0,0,2,1,0,0,0
+594,transfero,transferre,transferir; transportar,3,0,0,0,0,0,2,1,0
+595,uendo,uendere,vender,3,0,1,1,1,0,0,0,0
+596,uentito,uentitare,vir frequentemente,3,0,0,0,2,1,0,0,0
+597,ueto,uetare,proibir,3,0,1,0,0,1,0,1,0
+598,uiuo,uiuere,viver,3,0,0,0,2,1,0,0,0
+599,abeo,abire,ir embora; partir,2,0,0,0,0,0,1,1,0
+600,abscido,abscidere,cortar; separar,2,0,0,1,0,0,0,1,0
+601,accurro,accurrere,acorrer; correr até,2,1,0,1,0,0,0,0,0
+602,adimo,adimere,tirar; privar de,2,0,0,0,0,1,0,1,0
+603,aduento,aduentare,aproximar-se; chegar,2,0,0,0,0,0,0,0,2
+604,aduoco,aduocare,chamar; convocar,2,0,0,0,0,0,0,1,1
+605,aequo,aequare,igualar; nivelar,2,1,0,0,0,0,1,0,0
+606,afflicto,afflictare,afligir; maltratar,2,0,0,1,1,0,0,0,0
+607,aggrego,aggregare,reunir; agregar,2,0,0,0,1,0,1,0,0
+608,alieno,alienare,afastar; tornar hostil,2,0,0,0,0,0,1,1,0
+609,allicio,allicere,atrair; aliciar,2,0,0,0,0,1,0,1,0
+610,amplifico,amplificare,ampliar; engrandecer,2,0,1,0,0,0,1,0,0
+611,antefero,anteferre,levar à frente; preferir,2,0,0,0,0,2,0,0,0
+612,apparo,apparare,preparar; organizar,2,0,0,0,0,0,0,2,0
+613,aquor,aquari,abastecer-se de água,2,0,0,0,0,0,0,0,2
+614,arripio,arripere,agarrar; arrebatar,2,0,0,0,0,1,0,0,1
+615,circumduco,circumducere,conduzir ao redor,2,1,0,1,0,0,0,0,0
+616,clamito,clamitare,gritar repetidamente,2,0,0,0,0,2,0,0,0
+617,coemo,coemere,comprar em quantidade,2,1,0,0,0,0,0,1,0
+618,coerceo,coercere,conter; reprimir,2,1,0,0,0,1,0,0,0
+619,commeo,commeare,ir e vir; frequentar,2,1,0,0,0,0,0,1,0
+620,concurso,concursare,correr de um lado para outro,2,0,0,0,0,2,0,0,0
+621,confercio,confercire,encher; comprimir,2,0,0,0,1,0,0,1,0
+622,conscisco,consciscere,decidir em conjunto; provocar a si,2,1,0,1,0,0,0,0,0
+623,consulto,consultare,deliberar; consultar,2,0,0,0,0,1,0,1,0
+624,consurgo,consurgere,levantar-se em conjunto,2,0,0,0,0,1,1,0,0
+625,contabulo,contabulare,cobrir de tábuas; construir pavimentos,2,0,0,0,0,1,0,1,0
+626,conuello,conuellere,arrancar; abalar,2,0,0,0,0,0,0,0,2
+627,corrumpo,corrumpere,corromper; estragar; subornar,2,0,0,0,0,0,0,2,0
+628,cremo,cremare,queimar; cremar,2,1,0,0,0,0,1,0,0
+629,cresco,crescere,crescer; aumentar,2,1,0,0,0,0,0,1,0
+630,cunctor,cunctari,hesitar; demorar,2,0,0,1,1,0,0,0,0
+631,damno,damnare,condenar,2,1,0,0,0,1,0,0,0
+632,declaro,declarare,declarar; mostrar,2,1,0,0,0,0,0,0,1
+633,denego,denegare,negar; recusar,2,1,0,0,0,0,0,0,1
+634,depereo,deperire,perecer; perder-se,2,0,0,0,0,1,0,1,0
+635,deprimo,deprimere,empurrar para baixo; afundar,2,0,0,0,0,0,0,0,2
+636,deriuo,deriuare,desviar (água); derivar,2,0,0,0,0,0,0,1,1
+637,deturbo,deturbare,derrubar; expulsar,2,0,0,0,0,1,0,1,0
+638,deueho,deuehere,transportar para baixo; levar,2,1,0,0,0,1,0,0,0
+639,deuoueo,deuouere,consagrar; sacrificar por voto,2,0,0,1,0,0,1,0,0
+640,diduco,diducere,separar; dividir,2,0,0,1,0,0,1,0,0
+641,dimetior,dimetiri,medir; distribuir,2,0,1,0,1,0,0,0,0
+642,discludo,discludere,separar; apartar,2,0,0,0,1,0,0,1,0
+643,discutio,discutere,dispersar; despedaçar,2,0,0,0,0,0,0,1,1
+644,dissentio,dissentire,discordar,2,0,0,0,0,1,0,1,0
+645,dono,donare,dar; presentear,2,1,0,0,0,0,0,1,0
+646,duplico,duplicare,duplicar; dobrar,2,0,0,0,1,0,1,0,0
+647,edo,edere,comer; publicar; produzir (homógrafos),2,1,0,0,0,0,0,0,1
+648,effemino,effeminare,efeminar; enfraquecer,2,1,0,0,1,0,0,0,0
+649,emo,emere,comprar,2,1,1,0,0,0,0,0,0
+650,euolo,euolare,voar para fora; escapar,2,0,0,1,0,0,0,1,0
+651,exagito,exagitare,agitar; perseguir; incitar,2,0,1,0,1,0,0,0,0
+652,excogito,excogitare,conceber; imaginar,2,0,0,0,0,1,0,0,1
+653,exigo,exigere,expulsar; exigir; completar,2,0,0,1,0,0,1,0,0
+654,expio,expiare,expiar; purificar,2,0,0,0,0,1,0,0,1
+655,exprimo,exprimere,espremer; expressar,2,1,0,0,0,0,0,1,0
+656,exquiro,exquirere,investigar; procurar cuidadosamente,2,1,0,1,0,0,0,0,0
+657,exterreo,exterrere,aterrorizar; afugentar,2,0,0,0,0,0,0,2,0
+658,extimesco,extimescere,assustar-se; temer muito,2,0,0,1,0,0,0,0,1
+659,faueo,fauere,favorecer; apoiar (+ dativo),2,1,0,0,0,0,1,0,0
+660,feruefacio,feruefacere,aquecer; tornar incandescente,2,0,0,0,0,1,0,1,0
+661,flecto,flectere,dobrar; desviar,2,0,0,0,1,0,1,0,0
+662,fluo,fluere,fluir; correr,2,2,0,0,0,0,0,0,0
+663,fugo,fugare,afugentar; pôr em fuga,2,0,0,0,0,0,0,1,1
+664,fundo,fundere,derramar; dispersar; fundar (homógrafos),2,0,0,1,0,0,0,1,0
+665,glorior,gloriari,vangloriar-se,2,1,0,0,0,0,0,0,1
+666,hiberno,hibernare,passar o inverno,2,0,0,0,0,0,0,0,2
+667,iaceo,iacere,jazer; estar deitado,2,0,1,0,0,0,0,1,0
+668,illigo,illigare,atar; ligar,2,0,0,0,1,1,0,0,0
+669,imitor,imitari,imitar,2,0,0,0,0,0,1,1,0
+670,impendeo,impendere,pender sobre; ameaçar,2,1,0,1,0,0,0,0,0
+671,inaedifico,inaedificare,construir sobre,2,0,0,0,0,0,0,0,2
+672,increpito,increpitare,censurar; increpar,2,0,2,0,0,0,0,0,0
+673,incuso,incusare,acusar; censurar,2,1,1,0,0,0,0,0,0
+674,indulgeo,indulgere,ser indulgente; ceder,2,1,0,0,0,0,0,1,0
+675,inflecto,inflectere,dobrar; desviar,2,1,1,0,0,0,0,0,0
+676,inflo,inflare,soprar para dentro; inflar,2,0,0,0,0,0,0,0,2
+677,instigo,instigare,instigar; incitar,2,0,0,0,0,1,0,0,1
+678,intercido,intercidere,cair entre; perecer; cortar (homógrafos),2,0,0,0,0,0,0,0,2
+679,interrumpo,interrumpere,interromper; romper,2,0,0,0,0,0,0,2,0
+680,interuenio,interuenire,intervir; sobrevir,2,0,0,0,0,0,1,1,0
+681,inueterasco,inueterascere,envelhecer; consolidar-se com o tempo,2,0,1,0,0,1,0,0,0
+682,labor,labi,deslizar; cair,2,0,0,0,0,2,0,0,0
+683,laedo,laedere,ferir; prejudicar,2,0,0,0,0,0,1,0,1
+684,largior,largiri,distribuir generosamente; conceder,2,1,0,0,0,0,1,0,0
+685,lateo,latere,estar escondido,2,0,1,1,0,0,0,0,0
+686,liceor,liceri,oferecer um lance; licitar,2,2,0,0,0,0,0,0,0
+687,malo,malle,preferir,2,0,0,1,0,0,0,1,0
+688,miseror,miserari,compadecer-se; lamentar,2,1,0,0,0,0,0,1,0
+689,moderor,moderari,moderar; dirigir,2,0,0,0,1,0,0,1,0
+690,morior,mori,morrer,2,1,0,0,0,0,1,0,0
+691,nomino,nominare,nomear; mencionar,2,0,1,0,0,0,0,1,0
+692,obliuiscor,obliuisci,esquecer-se,2,1,0,0,0,0,0,1,0
+693,obstringo,obstringere,atar; obrigar,2,2,0,0,0,0,0,0,0
+694,odi,odisse,odiar (verbo de perfeito),2,1,0,1,0,0,0,0,0
+695,offendo,offendere,esbarrar; ofender; encontrar,2,1,0,0,0,0,1,0,0
+696,opto,optare,desejar; escolher,2,0,0,0,0,0,0,0,2
+697,pario,parere,gerar; produzir; obter,2,0,0,0,0,1,1,0,0
+698,partior,partiri,dividir; repartir,2,0,0,0,0,0,0,1,1
+699,patefacio,patefacere,abrir; revelar,2,0,1,0,0,0,0,1,0
+700,percutio,percutere,golpear; ferir,2,0,0,0,0,1,0,0,1
+701,perequito,perequitare,percorrer a cavalo,2,0,0,0,1,0,0,1,0
+702,perfringo,perfringere,quebrar; romper,2,1,0,0,0,0,0,1,0
+703,perscribo,perscribere,escrever detalhadamente,2,0,0,0,0,2,0,0,0
+704,perseuero,perseuerare,perseverar; persistir,2,1,0,0,0,1,0,0,0
+705,peruagor,peruagari,percorrer; espalhar-se,2,0,0,0,0,0,0,2,0
+706,postpono,postponere,colocar atrás; adiar,2,0,0,0,0,1,1,0,0
+707,praecedo,praecedere,preceder; superar,2,1,0,0,0,0,0,0,1
+708,praecipito,praecipitare,precipitar; lançar para baixo,2,0,0,0,1,0,0,1,0
+709,praeduco,praeducere,estender diante; construir à frente,2,0,0,0,0,0,0,2,0
+710,praefero,praeferre,levar à frente; preferir,2,0,1,0,0,1,0,0,0
+711,praepono,praeponere,colocar à frente; preferir,2,1,0,0,0,0,1,0,0
+712,praesentio,praesentire,pressentir; perceber antecipadamente,2,0,0,0,0,1,0,1,0
+713,profligo,profligare,abater; derrotar,2,0,1,0,0,0,0,1,0
+714,propulso,propulsare,repelir; afastar,2,1,0,0,0,0,1,0,0
+715,protero,proterere,pisotear; esmagar,2,0,0,0,0,0,0,1,1
+716,proturbo,proturbare,afastar violentamente; expulsar,2,0,1,0,0,0,0,1,0
+717,proueho,prouehere,levar adiante; transportar,2,0,0,0,1,1,0,0,0
+718,publico,publicare,confiscar; tornar público,2,0,0,0,0,1,0,1,0
+719,reclino,reclinare,inclinar; apoiar,2,0,0,0,0,0,2,0,0
+720,refringo,refringere,quebrar; arrombar,2,0,1,0,0,0,0,1,0
+721,rego,regere,dirigir; governar,2,0,0,1,0,0,1,0,0
+722,remigro,remigrare,voltar; regressar,2,0,0,0,2,0,0,0,0
+723,repeto,repetere,buscar de novo; reclamar; voltar a,2,2,0,0,0,0,0,0,0
+724,reporto,reportare,trazer de volta,2,0,0,0,1,1,0,0,0
+725,reprimo,reprimere,reprimir; conter,2,0,0,1,0,0,0,1,0
+726,requiro,requirere,procurar; perguntar; sentir falta,2,0,0,0,0,0,1,1,0
+727,reuello,reuellere,arrancar; desprender,2,1,0,0,0,0,0,1,0
+728,sano,sanare,curar; remediar,2,0,0,0,0,0,0,1,1
+729,scindo,scindere,cindir; cortar; rasgar,2,0,0,1,0,1,0,0,0
+730,seruio,seruire,servir; ser escravo (+ dativo),2,0,0,0,1,0,0,1,0
+731,simulo,simulare,fingir; simular,2,1,0,0,1,0,0,0,0
+732,subigo,subigere,submeter; obrigar,2,0,0,0,0,0,0,1,1
+733,subruo,subruere,escavar por baixo; minar,2,0,1,0,0,0,1,0,0
+734,succurro,succurrere,socorrer; acorrer,2,0,0,0,0,1,0,1,0
+735,taceo,tacere,calar-se; silenciar,2,2,0,0,0,0,0,0,0
+736,tempero,temperare,moderar; regular; abster-se,2,2,0,0,0,0,0,0,0
+737,traho,trahere,puxar; arrastar,2,1,0,0,0,0,1,0,0
+738,transcendo,transcendere,transpor; atravessar,2,0,0,1,0,0,0,1,0
+739,trepido,trepidare,agitar-se; estar inquieto,2,0,0,0,0,1,1,0,0
+740,uestio,uestire,vestir; revestir,2,0,0,0,0,0,0,2,0
+741,uincio,uincire,atar; prender,2,1,0,0,0,0,0,0,1
+742,uiolo,uiolare,violar; profanar,2,0,0,0,0,0,2,0,0
+743,urgeo,urgere,pressionar; perseguir,2,0,2,0,0,0,0,0,0
+744,abduco,abducere,conduzir para longe; retirar,1,1,0,0,0,0,0,0,0
+745,abiungo,abiungere,desligar; separar,1,0,0,0,0,0,0,1,0
+746,absisto,absistere,afastar-se; desistir,1,0,0,0,0,1,0,0,0
+747,absoluo,absoluere,soltar; absolver; completar,1,0,0,0,0,0,0,0,1
+748,accelero,accelerare,acelerar; apressar,1,0,0,0,0,0,0,1,0
+749,accommodo,accommodare,adaptar; ajustar,1,0,1,0,0,0,0,0,0
+750,acquiro,acquirere,adquirir; obter,1,0,0,0,0,0,0,1,0
+751,adamo,adamare,apaixonar-se; desejar ardentemente,1,1,0,0,0,0,0,0,0
+752,addico,addicere,atribuir; entregar por decisão,1,0,0,0,0,0,0,1,0
+753,adequito,adequitare,cavalgar até; aproximar-se a cavalo,1,1,0,0,0,0,0,0,0
+754,adhaeresco,adhaerescere,aderir; ficar preso,1,0,0,0,0,1,0,0,0
+755,adiaceo,adiacere,jazer junto; ser contíguo,1,0,0,0,0,0,1,0,0
+756,adipiscor,adipisci,alcançar; obter,1,0,0,0,0,1,0,0,0
+757,adiudico,adiudicare,adjudicar; atribuir,1,0,0,0,0,0,0,1,0
+758,admaturo,admaturare,apressar; acelerar,1,0,0,0,0,0,0,1,0
+759,admoueo,admouere,aproximar; aplicar,1,0,0,0,0,0,0,0,1
+760,adolesco,adolescere,crescer; amadurecer,1,0,0,0,0,0,1,0,0
+761,affigo,affigere,fixar; cravar,1,0,0,1,0,0,0,0,0
+762,affingo,affingere,acrescentar; inventar,1,0,0,0,0,0,0,1,0
+763,agito,agitare,agitar; perseguir; cogitar,1,0,0,0,0,0,0,1,0
+764,allego,allegere,enviar; escolher (forma verbal de allegere),1,0,0,0,0,0,1,0,0
+765,antepono,anteponere,colocar diante; preferir,1,0,0,0,1,0,0,0,0
+766,anteuerto,anteuertere,antecipar-se; preceder,1,0,0,0,0,0,0,1,0
+767,applico,applicare,aproximar; aplicar,1,0,0,0,0,0,1,0,0
+768,apporto,apportare,trazer; transportar,1,0,0,0,0,1,0,0,0
+769,approbo,approbare,aprovar; comprovar,1,0,0,0,0,0,0,1,0
+770,assisto,assistere,colocar-se junto; auxiliar,1,0,0,0,0,0,1,0,0
+771,assuesco,assuescere,acostumar-se,1,0,0,0,0,0,1,0,0
+772,attexo,attexere,entretecer; acrescentar,1,0,0,0,0,1,0,0,0
+773,aueho,auehere,levar embora; transportar,1,0,0,0,0,0,0,1,0
+774,belligero,belligerare,guerrear,1,0,0,0,0,0,0,0,1
+775,cano,canere,cantar; soar,1,0,0,0,0,0,0,1,0
+776,carpo,carpere,colher; desgastar aos poucos,1,0,0,1,0,0,0,0,0
+777,circumcido,circumcidere,cortar ao redor,1,0,0,0,0,1,0,0,0
+778,circumcludo,circumcludere,cercar; encerrar,1,0,0,0,0,0,1,0,0
+779,circumicio,circumicere,lançar ao redor; cercar,1,0,1,0,0,0,0,0,0
+780,circummunio,circummunire,fortificar ao redor,1,0,1,0,0,0,0,0,0
+781,circumplector,circumplecti,abraçar; envolver,1,0,0,0,0,0,0,1,0
+782,circumuehor,circumuehi,percorrer em volta; cavalgar ao redor,1,0,0,0,0,0,0,1,0
+783,coaceruo,coaceruare,amontoar,1,0,1,0,0,0,0,0,0
+784,coagmento,coagmentare,unir; juntar,1,0,0,0,0,0,0,1,0
+785,coarto,coartare,comprimir; restringir,1,0,0,0,0,0,0,1,0
+786,coeo,coire,reunir-se; juntar-se,1,0,0,0,0,0,1,0,0
+787,comburo,comburere,queimar; incendiar,1,1,0,0,0,0,0,0,0
+788,comitor,comitari,acompanhar,1,0,0,0,0,0,1,0,0
+789,commonefacio,commonefacere,lembrar; advertir,1,1,0,0,0,0,0,0,0
+790,compareo,comparere,aparecer; apresentar-se,1,0,0,0,0,0,0,0,1
+791,compingo,compingere,juntar; encerrar,1,0,0,0,0,0,0,0,1
+792,comprimo,comprimere,comprimir; conter,1,0,0,0,0,0,0,0,1
+793,comprobo,comprobare,aprovar; confirmar,1,0,0,0,0,1,0,0,0
+794,concrepo,concrepare,ressoar; produzir estrondo,1,0,0,0,0,0,0,1,0
+795,condemno,condemnare,condenar,1,0,0,0,0,0,0,1,0
+796,configo,configere,cravar; transpassar,1,0,0,1,0,0,0,0,0
+797,confiteor,confiteri,confessar; reconhecer,1,0,0,0,0,1,0,0,0
+798,conflagro,conflagrare,arder; incendiar-se,1,0,0,0,0,1,0,0,0
+799,conflicto,conflictare,afligir; atormentar,1,0,0,0,0,1,0,0,0
+800,conflo,conflare,soprar; fundir; tramar,1,0,0,0,0,0,0,0,1
+801,confluo,confluere,confluir; reunir-se,1,0,0,0,0,0,0,1,0
+802,confundo,confundere,misturar; confundir,1,0,0,0,0,0,0,1,0
+803,conquiesco,conquiescere,repousar; acalmar-se,1,0,0,0,0,0,0,1,0
+804,conspiro,conspirare,conspirar; concordar,1,0,0,1,0,0,0,0,0
+805,constipo,constipare,comprimir; amontoar,1,0,0,0,0,1,0,0,0
+806,contamino,contaminare,contaminar; desonrar,1,0,0,0,0,0,0,1,0
+807,contego,contegere,cobrir; proteger,1,0,0,0,0,0,0,1,0
+808,contionor,contionari,discursar em assembleia,1,0,0,0,0,0,0,1,0
+809,conualesco,conualescere,recobrar forças; recuperar-se,1,0,0,0,0,0,1,0,0
+810,conueho,conuehere,transportar; reunir,1,0,0,0,0,0,0,1,0
+811,conuinco,conuincere,demonstrar; provar a culpa,1,1,0,0,0,0,0,0,0
+812,custodio,custodire,guardar; vigiar,1,0,0,0,0,0,1,0,0
+813,decido,decidere,cair; decidir (homógrafos),1,1,0,0,0,0,0,0,0
+814,decipio,decipere,enganar,1,1,0,0,0,0,0,0,0
+815,definio,definire,delimitar; definir,1,0,0,0,0,0,0,1,0
+816,defugio,defugere,fugir de; evitar,1,0,0,0,0,0,1,0,0
+817,delecto,delectare,deleitar; agradar,1,0,0,0,1,0,0,0,0
+818,delego,delegare,delegar; enviar,1,0,0,0,0,0,0,0,1
+819,delibro,delibrare,descascar; retirar a casca,1,0,0,0,0,0,0,1,0
+820,delitesco,delitescere,esconder-se,1,0,0,0,1,0,0,0,0
+821,demeto,demetere,ceifar; colher,1,0,0,0,1,0,0,0,0
+822,demo,demere,tirar; retirar,1,0,0,0,0,1,0,0,0
+823,demoror,demorari,demorar; deter,1,0,0,1,0,0,0,0,0
+824,deporto,deportare,transportar; levar embora,1,0,0,1,0,0,0,0,0
+825,depugno,depugnare,combater até o fim,1,0,0,0,0,0,0,1,0
+826,derogo,derogare,revogar parcialmente; diminuir,1,0,0,0,0,0,1,0,0
+827,deseco,desecare,cortar; ceifar,1,0,0,0,0,0,0,1,0
+828,designo,designare,marcar; designar,1,1,0,0,0,0,0,0,0
+829,despolio,despoliare,despojar; saquear,1,0,1,0,0,0,0,0,0
+830,destituo,destituere,abandonar; deixar sem apoio,1,1,0,0,0,0,0,0,0
+831,detestor,detestari,abominar; amaldiçoar,1,0,0,0,0,0,1,0,0
+832,detineo,detinere,deter; reter,1,0,0,1,0,0,0,0,0
+833,detracto,detractare,recusar; depreciar,1,0,0,0,0,0,0,1,0
+834,deuoco,deuocare,chamar para baixo; convocar,1,0,0,0,0,0,1,0,0
+835,deuro,deurere,queimar; consumir pelo fogo,1,0,0,0,0,0,0,1,0
+836,diffluo,diffluere,espalhar-se; dissolver-se,1,0,0,0,1,0,0,0,0
+837,diffundo,diffundere,derramar; espalhar,1,0,0,0,0,0,1,0,0
+838,diligo,diligere,amar; estimar,1,0,0,0,0,0,1,0,0
+839,dirigo,dirigere,dirigir; alinhar,1,0,0,0,0,0,1,0,0
+840,dirimo,dirimere,separar; interromper,1,1,0,0,0,0,0,0,0
+841,discepto,disceptare,discutir; debater,1,0,0,0,0,0,0,0,1
+842,discerno,discernere,distinguir; separar,1,0,0,0,0,0,0,1,0
+843,disparo,disparare,separar; distinguir,1,0,0,0,0,0,0,1,0
+844,disputo,disputare,discutir; examinar,1,0,0,0,0,0,1,0,0
+845,dissero,disserere,discorrer; expor,1,0,0,0,0,0,0,1,0
+846,dissimulo,dissimulare,dissimular; ocultar,1,0,0,0,1,0,0,0,0
+847,dissuadeo,dissuadere,dissuadir,1,0,0,0,0,0,0,1,0
+848,distraho,distrahere,separar; dispersar,1,0,0,0,0,0,0,1,0
+849,diudico,diudicare,decidir; distinguir,1,0,0,0,0,1,0,0,0
+850,diungo,diungere,separar; desunir,1,0,0,0,1,0,0,0,0
+851,dominor,dominari,dominar; governar,1,0,1,0,0,0,0,0,0
+852,duro,durare,durar; resistir; endurecer,1,0,0,0,0,0,1,0,0
+853,edisco,ediscere,aprender de cor,1,0,0,0,0,0,1,0,0
+854,effarcio,effarcire,encher; abarrotar,1,0,0,0,0,0,0,1,0
+855,effodio,effodere,escavar; arrancar cavando,1,0,0,0,0,0,0,1,0
+856,effundo,effundere,derramar; dispersar,1,0,0,0,0,1,0,0,0
+857,egeo,egere,necessitar; carecer,1,0,0,0,0,0,1,0,0
+858,elabor,elabi,escapar; deslizar para fora,1,0,0,0,0,1,0,0,0
+859,emigro,emigrare,emigrar; mudar-se,1,1,0,0,0,0,0,0,0
+860,enascor,enasci,nascer; brotar,1,0,1,0,0,0,0,0,0
+861,erigo,erigere,erguer; animar,1,0,0,0,0,0,1,0,0
+862,euado,euadere,escapar; sair,1,0,0,1,0,0,0,0,0
+863,euello,euellere,arrancar,1,1,0,0,0,0,0,0,0
+864,euenio,euenire,acontecer; resultar,1,0,0,0,1,0,0,0,0
+865,euinco,euincere,vencer completamente,1,0,0,0,0,0,0,0,1
+866,examino,examinare,examinar; ponderar,1,0,0,0,0,1,0,0,0
+867,exardesco,exardescere,inflamar-se; arder,1,0,0,0,0,1,0,0,0
+868,exaresco,exarescere,secar; ressecar,1,0,0,0,0,0,0,0,1
+869,excello,excellere,sobressair; distinguir-se,1,0,0,0,0,0,1,0,0
+870,excepto,exceptare,apanhar; interceptar,1,0,0,0,0,0,0,1,0
+871,excido,excidere,cair para fora; cortar (homógrafos),1,0,0,0,0,0,0,1,0
+872,exculco,exculcare,pisotear; compactar,1,0,0,0,0,0,0,1,0
+873,excuso,excusare,desculpar; justificar,1,0,0,0,1,0,0,0,0
+874,exercito,exercitare,exercitar; treinar,1,0,0,0,0,0,0,0,1
+875,exhaurio,exhaurire,esgotar; retirar completamente,1,0,0,0,0,1,0,0,0
+876,exporto,exportare,exportar; transportar para fora,1,0,0,0,1,0,0,0,0
+877,exposco,exposcere,exigir; reclamar,1,0,0,0,0,0,0,1,0
+878,exsequor,exsequi,seguir até o fim; executar,1,1,0,0,0,0,0,0,0
+879,exsero,exserere,descobrir; pôr para fora,1,0,0,0,0,0,0,1,0
+880,exspolio,exspoliare,despojar; saquear,1,0,0,0,0,0,0,1,0
+881,exstinguo,exstinguere,extinguir; apagar,1,0,0,0,0,1,0,0,0
+882,exsto,exstare,sobressair; existir,1,0,0,0,0,1,0,0,0
+883,extorqueo,extorquere,arrancar; extorquir,1,0,0,0,0,0,0,1,0
+884,extraho,extrahere,extrair; arrastar para fora,1,0,0,0,0,1,0,0,0
+885,extrudo,extrudere,expulsar; empurrar para fora,1,0,0,1,0,0,0,0,0
+886,exuro,exurere,queimar completamente,1,1,0,0,0,0,0,0,0
+887,ferio,ferire,golpear; ferir,1,0,0,0,0,0,0,0,1
+888,flagito,flagitare,exigir insistentemente,1,1,0,0,0,0,0,0,0
+889,flo,flare,soprar,1,0,0,0,0,1,0,0,0
+890,fodio,fodere,cavar,1,0,0,0,0,0,0,1,0
+891,freno,frenare,frear; conter,1,0,0,0,0,0,0,0,1
+892,fruor,frui,desfrutar (+ ablativo),1,0,0,1,0,0,0,0,0
+893,fumo,fumare,fumegar,1,0,0,0,0,0,0,1,0
+894,gaudeo,gaudere,alegrar-se,1,0,0,0,1,0,0,0,0
+895,gratulor,gratulari,congratular; agradecer,1,1,0,0,0,0,0,0,0
+896,grauor,grauari,recusar por incômodo; sentir-se onerado,1,1,0,0,0,0,0,0,0
+897,gusto,gustare,provar; experimentar,1,0,0,0,0,1,0,0,0
+898,haesito,haesitare,hesitar; ficar preso,1,0,0,0,0,0,0,1,0
+899,horreo,horrere,arrepiar-se; temer,1,1,0,0,0,0,0,0,0
+900,immineo,imminere,pender sobre; ameaçar,1,0,0,0,0,0,1,0,0
+901,implico,implicare,envolver; enredar,1,0,0,0,0,0,0,1,0
+902,incumbo,incumbere,apoiar-se; lançar-se sobre,1,0,0,0,0,0,0,1,0
+903,indignor,indignari,indignar-se,1,0,0,0,0,0,0,1,0
+904,inficio,inficere,tingir; impregnar; contaminar,1,0,0,0,0,1,0,0,0
+905,infigo,infigere,cravar; fixar,1,0,0,0,0,0,0,1,0
+906,infodio,infodere,enterrar; cavar em,1,0,0,0,0,0,0,1,0
+907,innascor,innasci,nascer em; brotar,1,0,0,0,0,0,0,1,0
+908,innitor,inniti,apoiar-se; esforçar-se,1,0,1,0,0,0,0,0,0
+909,insero,inserere,inserir; semear (homógrafos),1,0,0,1,0,0,0,0,0
+910,inseruio,inseruire,servir; dedicar-se,1,0,0,0,0,0,0,0,1
+911,insilio,insilire,saltar sobre,1,1,0,0,0,0,0,0,0
+912,insinuo,insinuare,introduzir; insinuar,1,0,0,0,1,0,0,0,0
+913,inspecto,inspectare,observar; contemplar,1,0,0,0,0,0,0,1,0
+914,intendo,intendere,estender; dirigir; intensificar,1,0,0,1,0,0,0,0,0
+915,interpello,interpellare,interromper; perturbar,1,1,0,0,0,0,0,0,0
+916,interpretor,interpretari,interpretar; explicar,1,0,0,0,0,0,1,0,0
+917,interrogo,interrogare,interrogar; perguntar,1,0,0,0,0,0,0,1,0
+918,intexo,intexere,entretecer; incorporar,1,0,1,0,0,0,0,0,0
+919,introeo,introire,entrar,1,0,0,0,0,1,0,0,0
+920,introrumpo,introrumpere,irromper para dentro,1,0,0,0,0,1,0,0,0
+921,intueor,intueri,olhar atentamente; contemplar,1,1,0,0,0,0,0,0,0
+922,inuado,inuadere,invadir; atacar,1,0,0,0,0,0,0,0,1
+923,inuideo,inuidere,invejar (+ dativo),1,0,1,0,0,0,0,0,0
+924,inuoco,inuocare,invocar; chamar,1,0,0,0,0,0,0,0,1
+925,irrideo,irridere,zombar de,1,0,1,0,0,0,0,0,0
+926,lacrimo,lacrimare,chorar,1,0,0,0,0,0,0,1,0
+927,latito,latitare,manter-se escondido,1,0,0,0,0,0,0,0,1
+928,laudo,laudare,louvar; elogiar,1,0,0,0,0,1,0,0,0
+929,lauo,lauare,lavar; banhar,1,0,0,0,1,0,0,0,0
+930,laxo,laxare,afrouxar; alargar,1,0,1,0,0,0,0,0,0
+931,lego,legere,ler; escolher; recolher,1,0,0,0,0,0,0,0,1
+932,leuo,leuare,levantar; aliviar,1,0,0,0,0,1,0,0,0
+933,lustro,lustrare,percorrer; inspecionar; purificar,1,0,0,0,0,0,0,0,1
+934,mansuefio,mansuefieri,tornar-se manso; domesticar-se,1,0,0,0,0,0,1,0,0
+935,materior,materiari,recolher madeira,1,0,0,0,0,0,0,1,0
+936,maturesco,maturescere,amadurecer,1,0,0,0,0,0,1,0,0
+937,medeor,mederi,curar; remediar (+ dativo),1,0,0,0,0,1,0,0,0
+938,meto,metere,ceifar; colher,1,0,0,0,1,0,0,0,0
+939,metor,metari,medir; demarcar (acampamento),1,0,0,0,0,0,0,0,1
+940,miror,mirari,admirar; espantar-se,1,1,0,0,0,0,0,0,0
+941,mollio,mollire,amolecer; abrandar,1,0,0,0,0,0,0,1,0
+942,molo,molere,moer,1,1,0,0,0,0,0,0,0
+943,multo,multare,multar; punir,1,0,0,0,0,0,0,1,0
+944,muto,mutare,mudar; trocar,1,0,0,0,0,0,0,0,1
+945,mutuor,mutuari,tomar emprestado,1,0,0,0,0,0,0,0,1
+946,nauo,nauare,realizar com empenho; prestar,1,0,1,0,0,0,0,0,0
+947,nubo,nubere,casar-se (a mulher),1,1,0,0,0,0,0,0,0
+948,obduco,obducere,conduzir diante; cobrir; estender,1,0,1,0,0,0,0,0,0
+949,obeo,obire,ir ao encontro; percorrer; cumprir,1,0,0,0,0,1,0,0,0
+950,obsigno,obsignare,selar,1,1,0,0,0,0,0,0,0
+951,obsisto,obsistere,opor-se; resistir,1,0,0,0,0,0,0,1,0
+952,onero,onerare,carregar; sobrecarregar,1,0,0,0,0,1,0,0,0
+953,orno,ornare,ornar; equipar,1,0,0,0,0,0,0,1,0
+954,paeniteo,paenitere,causar arrependimento,1,0,0,0,1,0,0,0,0
+955,parento,parentare,prestar honras fúnebres,1,0,0,0,0,0,0,1,0
+956,patefio,patefieri,abrir-se; tornar-se manifesto,1,0,0,1,0,0,0,0,0
+957,pecco,peccare,errar; cometer uma falta,1,1,0,0,0,0,0,0,0
+958,perdisco,perdiscere,aprender completamente,1,0,0,0,0,0,1,0,0
+959,pergo,pergere,prosseguir; continuar,1,0,0,1,0,0,0,0,0
+960,perlego,perlegere,ler até o fim; percorrer,1,0,0,0,0,1,0,0,0
+961,perluo,perluere,lavar; banhar,1,0,0,0,0,0,1,0,0
+962,permisceo,permiscere,misturar; confundir,1,0,0,0,0,0,0,1,0
+963,permulceo,permulcere,acariciar; apaziguar,1,0,0,0,1,0,0,0,0
+964,pernocto,pernoctare,passar a noite,1,0,0,0,0,0,0,0,1
+965,perpetior,perpeti,suportar até o fim,1,0,0,0,0,0,0,1,0
+966,perquiro,perquirere,investigar cuidadosamente,1,0,0,0,0,0,1,0,0
+967,persoluo,persoluere,pagar inteiramente; cumprir,1,1,0,0,0,0,0,0,0
+968,persto,perstare,persistir; manter-se firme,1,0,0,0,0,0,0,1,0
+969,placo,placare,apaziguar,1,0,0,0,0,0,1,0,0
+970,polleo,pollere,ser poderoso; ter influência,1,0,0,0,0,0,0,0,1
+971,porrigo,porrigere,estender; oferecer,1,0,1,0,0,0,0,0,0
+972,possido,possidere,tomar posse; ocupar,1,0,0,0,1,0,0,0,0
+973,praecaueo,praecauere,precaver-se; prevenir,1,1,0,0,0,0,0,0,0
+974,praecido,praecidere,cortar; eliminar,1,0,0,0,0,0,0,0,1
+975,praecludo,praecludere,fechar; bloquear,1,0,0,0,0,1,0,0,0
+976,praefigo,praefigere,fixar na frente; guarnecer com pontas,1,0,0,0,0,1,0,0,0
+977,praemetuo,praemetuere,temer antecipadamente,1,0,0,0,0,0,0,1,0
+978,praeoccupo,praeoccupare,ocupar antes; antecipar-se,1,0,0,0,0,0,0,1,0
+979,praeopto,praeoptare,preferir,1,1,0,0,0,0,0,0,0
+980,praeripio,praeripere,arrebatar antecipadamente,1,0,0,0,0,0,0,0,1
+981,praerumpo,praerumpere,romper; quebrar,1,0,0,1,0,0,0,0,0
+982,praesaepio,praesaepire,barrar; fechar com cerca,1,0,0,0,0,0,0,1,0
+983,praeuerto,praeuertere,antecipar-se; desviar,1,0,0,0,0,0,0,1,0
+984,prehendo,prehendere,agarrar; capturar,1,1,0,0,0,0,0,0,0
+985,proclino,proclinare,inclinar; fazer pender,1,0,0,0,0,0,0,1,0
+986,procuro,procurare,cuidar; administrar,1,0,0,0,0,0,1,0,0
+987,profluo,profluere,fluir para fora; correr,1,0,0,0,1,0,0,0,0
+988,promineo,prominere,projetar-se; sobressair,1,0,0,0,0,0,0,1,0
+989,prorumpo,prorumpere,irromper; precipitar-se,1,0,0,0,0,0,0,0,1
+990,proruo,proruere,avançar impetuosamente; derrubar,1,0,0,1,0,0,0,0,0
+991,prosterno,prosternere,derrubar; prostrar,1,0,0,0,0,0,0,1,0
+992,prosum,prodesse,ser útil; beneficiar,1,0,0,0,0,0,1,0,0
+993,protego,protegere,proteger; cobrir,1,0,0,0,0,1,0,0,0
+994,prouenio,prouenire,provir; resultar; crescer,1,0,0,0,0,1,0,0,0
+995,prouolo,prouolare,voar para a frente; precipitar-se,1,0,1,0,0,0,0,0,0
+996,prouoluo,prouoluere,rolar para a frente; prostrar,1,0,0,0,0,0,0,0,1
+997,pudeo,pudere,causar vergonha; envergonhar,1,0,0,0,0,0,0,1,0
+998,rado,radere,raspar; roçar,1,0,0,0,0,1,0,0,0
+999,recenseo,recensere,passar em revista; enumerar,1,0,0,0,0,0,0,1,0
+1000,recido,recidere,cair de novo; recair,1,0,0,0,0,0,0,1,0
+1001,recito,recitare,ler em voz alta,1,0,0,0,0,1,0,0,0
+1002,regno,regnare,reinar,1,0,0,0,0,1,0,0,0
+1003,relanguesco,relanguescere,enfraquecer; desanimar,1,0,1,0,0,0,0,0,0
+1004,relego,relegare,afastar; relegar,1,0,0,0,0,1,0,0,0
+1005,remigo,remigare,remar,1,0,0,0,0,1,0,0,0
+1006,reminiscor,reminisci,recordar-se,1,1,0,0,0,0,0,0,0
+1007,remollesco,remollescere,amolecer; enfraquecer,1,0,0,0,1,0,0,0,0
+1008,remunero,remunerare,recompensar,1,1,0,0,0,0,0,0,0
+1009,repleo,replere,encher novamente,1,0,0,0,0,0,0,1,0
+1010,reposco,reposcere,reclamar de volta,1,0,0,0,0,1,0,0,0
+1011,repraesento,repraesentare,apresentar; executar imediatamente,1,1,0,0,0,0,0,0,0
+1012,repudio,repudiare,rejeitar; repudiar,1,1,0,0,0,0,0,0,0
+1013,rescio,rescire,ficar sabendo,1,1,0,0,0,0,0,0,0
+1014,rescribo,rescribere,responder por escrito,1,1,0,0,0,0,0,0,0
+1015,resideo,residere,permanecer sentado; ficar,1,0,0,0,0,0,0,1,0
+1016,resido,residere,assentar-se; baixar,1,0,0,0,0,0,0,1,0
+1017,respuo,respuere,rejeitar; repelir,1,1,0,0,0,0,0,0,0
+1018,retraho,retrahere,puxar para trás; retirar,1,0,0,0,0,1,0,0,0
+1019,sapio,sapere,ter discernimento; saber,1,0,0,0,0,1,0,0,0
+1020,sarcio,sarcire,reparar; remendar,1,0,0,0,0,0,1,0,0
+1021,seco,secare,cortar,1,0,0,0,0,0,0,1,0
+1022,sector,sectari,seguir; perseguir,1,0,0,0,0,0,1,0,0
+1023,separo,separare,separar,1,0,0,0,0,0,0,1,0
+1024,sero,serere,semear; entrelaçar (homógrafos),1,0,0,0,0,1,0,0,0
+1025,seuoco,seuocare,chamar à parte,1,0,0,0,0,1,0,0,0
+1026,stabilio,stabilire,firmar; consolidar,1,0,0,0,0,0,0,1,0
+1027,sterno,sternere,estender; derrubar,1,0,0,0,0,0,0,0,1
+1028,subluo,subluere,lavar por baixo; corroer (água),1,0,0,0,0,0,0,1,0
+1029,subsidior,subsidiari,ficar de reserva; prestar auxílio,1,0,0,0,0,0,0,0,1
+1030,subsido,subsidere,assentar; baixar; emboscar-se,1,0,0,0,0,0,1,0,0
+1031,subueho,subuehere,transportar para cima; fornecer,1,1,0,0,0,0,0,0,0
+1032,succumbo,succumbere,sucumbir; ceder,1,0,0,0,0,0,0,1,0
+1033,sufficio,sufficere,fornecer; bastar,1,0,0,0,0,0,0,1,0
+1034,suffodio,suffodere,escavar por baixo; minar,1,0,0,0,1,0,0,0,0
+1035,supersedeo,supersedere,abster-se; deixar de fazer,1,0,1,0,0,0,0,0,0
+1036,supprimo,supprimere,reprimir; deter,1,0,0,0,0,0,0,0,1
+1037,tango,tangere,tocar,1,0,0,0,0,1,0,0,0
+1038,torreo,torrere,tostar; queimar,1,0,0,0,0,1,0,0,0
+1039,trano,tranare,atravessar a nado,1,1,0,0,0,0,0,0,0
+1040,transfodio,transfodere,transpassar; perfurar,1,0,0,0,0,0,0,1,0
+1041,transmitto,transmittere,enviar através; atravessar,1,0,0,0,0,0,0,1,0
+1042,tumultuor,tumultuari,provocar tumulto; agitar-se,1,0,0,0,0,0,0,1,0
+1043,ueneo,uenire,ser vendido,1,0,0,0,0,1,0,0,0
+1044,uerso,uersare,virar repetidamente; manejar,1,0,0,0,0,1,0,0,0
+1045,uoueo,uouere,fazer um voto; prometer,1,0,0,0,0,0,1,0,0

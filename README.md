@@ -1,6 +1,6 @@
 # Gallico
 
-**Endereço do GitHub Pages (após ativação):** https://yjnnk.github.io/latim-vocab/
+**Site público:** https://yjnnk.github.io/latim-vocab/
 
 Dicionário latino–português dos verbos de **De Bello Gallico**, ordenados por frequência. O código e os dados ficam em [`gallico/`](gallico/).
 
@@ -46,6 +46,6 @@ Corpus e dados derivados: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses
 
 ## Hospedagem
 
-O GitHub Pages publica `gallico/dist` automaticamente pelo workflow `.github/workflows/pages.yml`, a cada alteração nessa pasta enviada à branch `main`. Também é possível executar o workflow manualmente na aba Actions. O repositório é público. Para ativar a hospedagem, selecione **GitHub Actions** em Settings → Pages → Source e execute o workflow na aba Actions.
+O GitHub Pages publica `gallico/dist` automaticamente pelo workflow `.github/workflows/pages.yml`, a cada alteração nessa pasta enviada à branch `main`. Também é possível executar o workflow manualmente na aba Actions. O repositório e o site são públicos. A origem da publicação está configurada como **GitHub Actions** em Settings → Pages.
 
 A hospedagem anterior do Sites está identificada em `gallico/.openai/hosting.json` e mantém seu controle de acesso separado.

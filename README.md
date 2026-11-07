@@ -1,5 +1,7 @@
 # Gallico
 
+**Site público:** https://yjnnk.github.io/latim-vocab/
+
 Dicionário latino–português dos verbos de **De Bello Gallico**, ordenados por frequência. O código e os dados ficam em [`gallico/`](gallico/).
 
 - 1.045 lemas e 12.155 ocorrências verbais nos livros I–VIII.
@@ -44,4 +46,6 @@ Corpus e dados derivados: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses
 
 ## Hospedagem
 
-O projeto Sites está em `gallico/.openai/hosting.json` e publica a pasta estática `dist`. O repositório GitHub é privado; não habilitamos GitHub Pages. O acesso do site hospedado é privado, separado da visibilidade deste repositório.
+O GitHub Pages publica `gallico/dist` automaticamente pelo workflow `.github/workflows/pages.yml`, a cada alteração nessa pasta enviada à branch `main`. Também é possível executar o workflow manualmente na aba Actions. O repositório e o GitHub Pages são públicos.
+
+A hospedagem anterior do Sites está identificada em `gallico/.openai/hosting.json` e mantém seu controle de acesso separado.
